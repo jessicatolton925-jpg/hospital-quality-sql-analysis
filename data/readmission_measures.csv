@@ -1,0 +1,451 @@
+hospital_id,measure_id,measure_name,score,compared_to_national
+H0001,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,125.9,Worse
+H0001,READM_30_HF,Heart Failure 30-Day Readmission Rate,94,Same
+H0001,READM_30_PN,Pneumonia 30-Day Readmission Rate,78.7,Same
+H0002,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,73.6,Better
+H0002,READM_30_HF,Heart Failure 30-Day Readmission Rate,77.1,Same
+H0002,READM_30_PN,Pneumonia 30-Day Readmission Rate,118.9,Better
+H0003,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,91.7,Same
+H0003,READM_30_HF,Heart Failure 30-Day Readmission Rate,138.4,Better
+H0003,READM_30_PN,Pneumonia 30-Day Readmission Rate,123.1,Same
+H0004,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,130.1,Same
+H0004,READM_30_HF,Heart Failure 30-Day Readmission Rate,115.4,Same
+H0004,READM_30_PN,Pneumonia 30-Day Readmission Rate,108.9,Worse
+H0005,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,87.7,Better
+H0005,READM_30_HF,Heart Failure 30-Day Readmission Rate,99.9,Same
+H0005,READM_30_PN,Pneumonia 30-Day Readmission Rate,110.4,Same
+H0006,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.3,Same
+H0006,READM_30_HF,Heart Failure 30-Day Readmission Rate,82.9,Same
+H0006,READM_30_PN,Pneumonia 30-Day Readmission Rate,97.1,Same
+H0007,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.8,Same
+H0007,READM_30_HF,Heart Failure 30-Day Readmission Rate,98.2,Same
+H0007,READM_30_PN,Pneumonia 30-Day Readmission Rate,84.6,Same
+H0008,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,127.8,Same
+H0008,READM_30_HF,Heart Failure 30-Day Readmission Rate,96.6,Worse
+H0008,READM_30_PN,Pneumonia 30-Day Readmission Rate,85.6,Same
+H0009,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,128.3,Better
+H0009,READM_30_HF,Heart Failure 30-Day Readmission Rate,123.1,Same
+H0009,READM_30_PN,Pneumonia 30-Day Readmission Rate,102.1,Same
+H0010,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,73.5,Worse
+H0010,READM_30_HF,Heart Failure 30-Day Readmission Rate,93,Worse
+H0010,READM_30_PN,Pneumonia 30-Day Readmission Rate,76.1,Worse
+H0011,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,107.7,Same
+H0011,READM_30_HF,Heart Failure 30-Day Readmission Rate,92,Same
+H0011,READM_30_PN,Pneumonia 30-Day Readmission Rate,99.6,Same
+H0012,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,126.6,Same
+H0012,READM_30_HF,Heart Failure 30-Day Readmission Rate,91,Same
+H0012,READM_30_PN,Pneumonia 30-Day Readmission Rate,107,Better
+H0013,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,111.5,Worse
+H0013,READM_30_HF,Heart Failure 30-Day Readmission Rate,118.4,Better
+H0013,READM_30_PN,Pneumonia 30-Day Readmission Rate,98.5,Same
+H0014,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,96.9,Same
+H0014,READM_30_HF,Heart Failure 30-Day Readmission Rate,96.6,Same
+H0014,READM_30_PN,Pneumonia 30-Day Readmission Rate,105.5,Same
+H0015,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,122.4,Better
+H0015,READM_30_HF,Heart Failure 30-Day Readmission Rate,95.9,Same
+H0015,READM_30_PN,Pneumonia 30-Day Readmission Rate,63.6,Same
+H0016,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,113.3,Worse
+H0016,READM_30_HF,Heart Failure 30-Day Readmission Rate,101,Worse
+H0016,READM_30_PN,Pneumonia 30-Day Readmission Rate,107.7,Better
+H0017,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,76.6,Same
+H0017,READM_30_HF,Heart Failure 30-Day Readmission Rate,92.1,Worse
+H0017,READM_30_PN,Pneumonia 30-Day Readmission Rate,111.9,Better
+H0018,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,81.2,Same
+H0018,READM_30_HF,Heart Failure 30-Day Readmission Rate,107,Same
+H0018,READM_30_PN,Pneumonia 30-Day Readmission Rate,99.5,Same
+H0019,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,89,Worse
+H0019,READM_30_HF,Heart Failure 30-Day Readmission Rate,87.8,Same
+H0019,READM_30_PN,Pneumonia 30-Day Readmission Rate,84.8,Worse
+H0020,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,100.9,Same
+H0020,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.6,Same
+H0020,READM_30_PN,Pneumonia 30-Day Readmission Rate,94.5,Better
+H0021,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,83.9,Better
+H0021,READM_30_HF,Heart Failure 30-Day Readmission Rate,56.2,Worse
+H0021,READM_30_PN,Pneumonia 30-Day Readmission Rate,106.5,Same
+H0022,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,113.6,Same
+H0022,READM_30_HF,Heart Failure 30-Day Readmission Rate,109.3,Better
+H0022,READM_30_PN,Pneumonia 30-Day Readmission Rate,130.9,Same
+H0023,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,97.3,Better
+H0023,READM_30_HF,Heart Failure 30-Day Readmission Rate,120.6,Same
+H0023,READM_30_PN,Pneumonia 30-Day Readmission Rate,90.3,Better
+H0024,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,88,Same
+H0024,READM_30_HF,Heart Failure 30-Day Readmission Rate,101.8,Same
+H0024,READM_30_PN,Pneumonia 30-Day Readmission Rate,124.4,Worse
+H0025,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,95.6,Worse
+H0025,READM_30_HF,Heart Failure 30-Day Readmission Rate,76.6,Same
+H0025,READM_30_PN,Pneumonia 30-Day Readmission Rate,113.2,Same
+H0026,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.8,Same
+H0026,READM_30_HF,Heart Failure 30-Day Readmission Rate,104.5,Worse
+H0026,READM_30_PN,Pneumonia 30-Day Readmission Rate,88.7,Same
+H0027,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,101.7,Same
+H0027,READM_30_HF,Heart Failure 30-Day Readmission Rate,78.4,Same
+H0027,READM_30_PN,Pneumonia 30-Day Readmission Rate,128.1,Same
+H0028,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,116.2,Same
+H0028,READM_30_HF,Heart Failure 30-Day Readmission Rate,101,Better
+H0028,READM_30_PN,Pneumonia 30-Day Readmission Rate,112.8,Same
+H0029,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,90.3,Worse
+H0029,READM_30_HF,Heart Failure 30-Day Readmission Rate,115.4,Worse
+H0029,READM_30_PN,Pneumonia 30-Day Readmission Rate,95,Better
+H0030,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,93.9,Worse
+H0030,READM_30_HF,Heart Failure 30-Day Readmission Rate,85.7,Same
+H0030,READM_30_PN,Pneumonia 30-Day Readmission Rate,106.4,Same
+H0031,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,100.4,Worse
+H0031,READM_30_HF,Heart Failure 30-Day Readmission Rate,121.2,Same
+H0031,READM_30_PN,Pneumonia 30-Day Readmission Rate,84.1,Worse
+H0032,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,106.4,Same
+H0032,READM_30_HF,Heart Failure 30-Day Readmission Rate,117.8,Same
+H0032,READM_30_PN,Pneumonia 30-Day Readmission Rate,138.8,Worse
+H0033,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,102.9,Better
+H0033,READM_30_HF,Heart Failure 30-Day Readmission Rate,94.7,Worse
+H0033,READM_30_PN,Pneumonia 30-Day Readmission Rate,102.5,Same
+H0034,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,119.8,Same
+H0034,READM_30_HF,Heart Failure 30-Day Readmission Rate,119.8,Same
+H0034,READM_30_PN,Pneumonia 30-Day Readmission Rate,98.2,Same
+H0035,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,119.5,Same
+H0035,READM_30_HF,Heart Failure 30-Day Readmission Rate,99.7,Better
+H0035,READM_30_PN,Pneumonia 30-Day Readmission Rate,112.6,Better
+H0036,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,108.2,Same
+H0036,READM_30_HF,Heart Failure 30-Day Readmission Rate,94.1,Same
+H0036,READM_30_PN,Pneumonia 30-Day Readmission Rate,86.2,Same
+H0037,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,118.3,Same
+H0037,READM_30_HF,Heart Failure 30-Day Readmission Rate,122.8,Worse
+H0037,READM_30_PN,Pneumonia 30-Day Readmission Rate,106.1,Same
+H0038,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,99.6,Better
+H0038,READM_30_HF,Heart Failure 30-Day Readmission Rate,82.3,Same
+H0038,READM_30_PN,Pneumonia 30-Day Readmission Rate,117.8,Better
+H0039,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,104.2,Same
+H0039,READM_30_HF,Heart Failure 30-Day Readmission Rate,96.1,Worse
+H0039,READM_30_PN,Pneumonia 30-Day Readmission Rate,113.1,Same
+H0040,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,79.8,Same
+H0040,READM_30_HF,Heart Failure 30-Day Readmission Rate,85,Better
+H0040,READM_30_PN,Pneumonia 30-Day Readmission Rate,89.8,Same
+H0041,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,107.7,Worse
+H0041,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.7,Same
+H0041,READM_30_PN,Pneumonia 30-Day Readmission Rate,109.5,Same
+H0042,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,116.6,Worse
+H0042,READM_30_HF,Heart Failure 30-Day Readmission Rate,110.1,Better
+H0042,READM_30_PN,Pneumonia 30-Day Readmission Rate,128.5,Same
+H0043,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,116.6,Same
+H0043,READM_30_HF,Heart Failure 30-Day Readmission Rate,98.2,Same
+H0043,READM_30_PN,Pneumonia 30-Day Readmission Rate,92,Same
+H0044,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.6,Worse
+H0044,READM_30_HF,Heart Failure 30-Day Readmission Rate,110.6,Same
+H0044,READM_30_PN,Pneumonia 30-Day Readmission Rate,93.5,Worse
+H0045,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,111.1,Better
+H0045,READM_30_HF,Heart Failure 30-Day Readmission Rate,109.2,Worse
+H0045,READM_30_PN,Pneumonia 30-Day Readmission Rate,86,Worse
+H0046,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,116.3,Same
+H0046,READM_30_HF,Heart Failure 30-Day Readmission Rate,105.5,Better
+H0046,READM_30_PN,Pneumonia 30-Day Readmission Rate,127.6,Same
+H0047,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,99.7,Same
+H0047,READM_30_HF,Heart Failure 30-Day Readmission Rate,95.5,Same
+H0047,READM_30_PN,Pneumonia 30-Day Readmission Rate,84.2,Same
+H0048,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,84,Better
+H0048,READM_30_HF,Heart Failure 30-Day Readmission Rate,114.3,Worse
+H0048,READM_30_PN,Pneumonia 30-Day Readmission Rate,125.7,Better
+H0049,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.4,Same
+H0049,READM_30_HF,Heart Failure 30-Day Readmission Rate,97.5,Better
+H0049,READM_30_PN,Pneumonia 30-Day Readmission Rate,101.1,Better
+H0050,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,117.4,Worse
+H0050,READM_30_HF,Heart Failure 30-Day Readmission Rate,86.1,Better
+H0050,READM_30_PN,Pneumonia 30-Day Readmission Rate,103.6,Worse
+H0051,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.6,Worse
+H0051,READM_30_HF,Heart Failure 30-Day Readmission Rate,107.5,Same
+H0051,READM_30_PN,Pneumonia 30-Day Readmission Rate,59.5,Same
+H0052,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,110.2,Same
+H0052,READM_30_HF,Heart Failure 30-Day Readmission Rate,107.7,Worse
+H0052,READM_30_PN,Pneumonia 30-Day Readmission Rate,120.6,Same
+H0053,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,124.2,Same
+H0053,READM_30_HF,Heart Failure 30-Day Readmission Rate,119.7,Same
+H0053,READM_30_PN,Pneumonia 30-Day Readmission Rate,101.1,Better
+H0054,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,76,Same
+H0054,READM_30_HF,Heart Failure 30-Day Readmission Rate,132.6,Worse
+H0054,READM_30_PN,Pneumonia 30-Day Readmission Rate,97.4,Same
+H0055,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,100.7,Same
+H0055,READM_30_HF,Heart Failure 30-Day Readmission Rate,125.4,Better
+H0055,READM_30_PN,Pneumonia 30-Day Readmission Rate,88.9,Same
+H0056,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,80.2,Better
+H0056,READM_30_HF,Heart Failure 30-Day Readmission Rate,93.6,Worse
+H0056,READM_30_PN,Pneumonia 30-Day Readmission Rate,89.6,Same
+H0057,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,78.9,Same
+H0057,READM_30_HF,Heart Failure 30-Day Readmission Rate,98.8,Same
+H0057,READM_30_PN,Pneumonia 30-Day Readmission Rate,101.2,Better
+H0058,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,78.1,Better
+H0058,READM_30_HF,Heart Failure 30-Day Readmission Rate,95.4,Worse
+H0058,READM_30_PN,Pneumonia 30-Day Readmission Rate,88.7,Same
+H0059,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,71.9,Worse
+H0059,READM_30_HF,Heart Failure 30-Day Readmission Rate,101.7,Same
+H0059,READM_30_PN,Pneumonia 30-Day Readmission Rate,103.2,Better
+H0060,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,88.7,Same
+H0060,READM_30_HF,Heart Failure 30-Day Readmission Rate,116.1,Same
+H0060,READM_30_PN,Pneumonia 30-Day Readmission Rate,100.3,Same
+H0061,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,89.4,Same
+H0061,READM_30_HF,Heart Failure 30-Day Readmission Rate,77.3,Same
+H0061,READM_30_PN,Pneumonia 30-Day Readmission Rate,104,Same
+H0062,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,107.6,Same
+H0062,READM_30_HF,Heart Failure 30-Day Readmission Rate,92.8,Same
+H0062,READM_30_PN,Pneumonia 30-Day Readmission Rate,102.2,Better
+H0063,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,124.2,Better
+H0063,READM_30_HF,Heart Failure 30-Day Readmission Rate,113.5,Same
+H0063,READM_30_PN,Pneumonia 30-Day Readmission Rate,67.7,Better
+H0064,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,89.2,Same
+H0064,READM_30_HF,Heart Failure 30-Day Readmission Rate,98,Better
+H0064,READM_30_PN,Pneumonia 30-Day Readmission Rate,101.2,Same
+H0065,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,102.5,Same
+H0065,READM_30_HF,Heart Failure 30-Day Readmission Rate,106.6,Same
+H0065,READM_30_PN,Pneumonia 30-Day Readmission Rate,98.5,Same
+H0066,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,100.3,Worse
+H0066,READM_30_HF,Heart Failure 30-Day Readmission Rate,114.3,Same
+H0066,READM_30_PN,Pneumonia 30-Day Readmission Rate,104.3,Better
+H0067,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,82.8,Better
+H0067,READM_30_HF,Heart Failure 30-Day Readmission Rate,101.6,Same
+H0067,READM_30_PN,Pneumonia 30-Day Readmission Rate,98.1,Same
+H0068,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,71.8,Better
+H0068,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.4,Same
+H0068,READM_30_PN,Pneumonia 30-Day Readmission Rate,84.6,Same
+H0069,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.5,Same
+H0069,READM_30_HF,Heart Failure 30-Day Readmission Rate,106.4,Same
+H0069,READM_30_PN,Pneumonia 30-Day Readmission Rate,82.1,Same
+H0070,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,113.8,Same
+H0070,READM_30_HF,Heart Failure 30-Day Readmission Rate,120.9,Worse
+H0070,READM_30_PN,Pneumonia 30-Day Readmission Rate,96.2,Worse
+H0071,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98,Same
+H0071,READM_30_HF,Heart Failure 30-Day Readmission Rate,112.2,Same
+H0071,READM_30_PN,Pneumonia 30-Day Readmission Rate,119.6,Same
+H0072,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,75.1,Same
+H0072,READM_30_HF,Heart Failure 30-Day Readmission Rate,83.6,Same
+H0072,READM_30_PN,Pneumonia 30-Day Readmission Rate,93.8,Better
+H0073,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,95.4,Better
+H0073,READM_30_HF,Heart Failure 30-Day Readmission Rate,111.7,Better
+H0073,READM_30_PN,Pneumonia 30-Day Readmission Rate,119.7,Same
+H0074,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,120.9,Better
+H0074,READM_30_HF,Heart Failure 30-Day Readmission Rate,74.7,Same
+H0074,READM_30_PN,Pneumonia 30-Day Readmission Rate,87.9,Same
+H0075,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,81.5,Worse
+H0075,READM_30_HF,Heart Failure 30-Day Readmission Rate,91.1,Same
+H0075,READM_30_PN,Pneumonia 30-Day Readmission Rate,87.9,Same
+H0076,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,106.4,Better
+H0076,READM_30_HF,Heart Failure 30-Day Readmission Rate,108.2,Same
+H0076,READM_30_PN,Pneumonia 30-Day Readmission Rate,100.1,Better
+H0077,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.7,Better
+H0077,READM_30_HF,Heart Failure 30-Day Readmission Rate,94.4,Better
+H0077,READM_30_PN,Pneumonia 30-Day Readmission Rate,96.1,Same
+H0078,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,124,Worse
+H0078,READM_30_HF,Heart Failure 30-Day Readmission Rate,110.5,Same
+H0078,READM_30_PN,Pneumonia 30-Day Readmission Rate,95,Worse
+H0079,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.4,Same
+H0079,READM_30_HF,Heart Failure 30-Day Readmission Rate,106.7,Same
+H0079,READM_30_PN,Pneumonia 30-Day Readmission Rate,82.1,Same
+H0080,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,102.1,Same
+H0080,READM_30_HF,Heart Failure 30-Day Readmission Rate,109.6,Same
+H0080,READM_30_PN,Pneumonia 30-Day Readmission Rate,107.5,Same
+H0081,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,88.2,Better
+H0081,READM_30_HF,Heart Failure 30-Day Readmission Rate,90.7,Same
+H0081,READM_30_PN,Pneumonia 30-Day Readmission Rate,70.3,Same
+H0082,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,111.2,Better
+H0082,READM_30_HF,Heart Failure 30-Day Readmission Rate,131.1,Same
+H0082,READM_30_PN,Pneumonia 30-Day Readmission Rate,86.2,Same
+H0083,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,116.5,Same
+H0083,READM_30_HF,Heart Failure 30-Day Readmission Rate,129.4,Same
+H0083,READM_30_PN,Pneumonia 30-Day Readmission Rate,93,Same
+H0084,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.4,Same
+H0084,READM_30_HF,Heart Failure 30-Day Readmission Rate,103.8,Same
+H0084,READM_30_PN,Pneumonia 30-Day Readmission Rate,107,Worse
+H0085,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,104.6,Better
+H0085,READM_30_HF,Heart Failure 30-Day Readmission Rate,94.1,Same
+H0085,READM_30_PN,Pneumonia 30-Day Readmission Rate,109.3,Worse
+H0086,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,94.5,Better
+H0086,READM_30_HF,Heart Failure 30-Day Readmission Rate,105.7,Same
+H0086,READM_30_PN,Pneumonia 30-Day Readmission Rate,99.6,Worse
+H0087,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,73.4,Same
+H0087,READM_30_HF,Heart Failure 30-Day Readmission Rate,118.9,Same
+H0087,READM_30_PN,Pneumonia 30-Day Readmission Rate,91.1,Same
+H0088,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,120.6,Same
+H0088,READM_30_HF,Heart Failure 30-Day Readmission Rate,115.8,Worse
+H0088,READM_30_PN,Pneumonia 30-Day Readmission Rate,103.3,Same
+H0089,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,107.8,Same
+H0089,READM_30_HF,Heart Failure 30-Day Readmission Rate,109.7,Worse
+H0089,READM_30_PN,Pneumonia 30-Day Readmission Rate,97,Worse
+H0090,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,97.7,Same
+H0090,READM_30_HF,Heart Failure 30-Day Readmission Rate,108.9,Same
+H0090,READM_30_PN,Pneumonia 30-Day Readmission Rate,55.9,Worse
+H0091,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,99.7,Same
+H0091,READM_30_HF,Heart Failure 30-Day Readmission Rate,94.2,Same
+H0091,READM_30_PN,Pneumonia 30-Day Readmission Rate,88.4,Same
+H0092,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,106.1,Same
+H0092,READM_30_HF,Heart Failure 30-Day Readmission Rate,90.6,Same
+H0092,READM_30_PN,Pneumonia 30-Day Readmission Rate,112.9,Worse
+H0093,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.3,Same
+H0093,READM_30_HF,Heart Failure 30-Day Readmission Rate,107.7,Better
+H0093,READM_30_PN,Pneumonia 30-Day Readmission Rate,110.9,Same
+H0094,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,107.7,Better
+H0094,READM_30_HF,Heart Failure 30-Day Readmission Rate,112,Same
+H0094,READM_30_PN,Pneumonia 30-Day Readmission Rate,111.3,Same
+H0095,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,105.3,Better
+H0095,READM_30_HF,Heart Failure 30-Day Readmission Rate,116.1,Same
+H0095,READM_30_PN,Pneumonia 30-Day Readmission Rate,97.6,Same
+H0096,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,88.8,Better
+H0096,READM_30_HF,Heart Failure 30-Day Readmission Rate,88.1,Worse
+H0096,READM_30_PN,Pneumonia 30-Day Readmission Rate,95.4,Worse
+H0097,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,71.6,Better
+H0097,READM_30_HF,Heart Failure 30-Day Readmission Rate,103.2,Same
+H0097,READM_30_PN,Pneumonia 30-Day Readmission Rate,109.9,Better
+H0098,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.1,Better
+H0098,READM_30_HF,Heart Failure 30-Day Readmission Rate,75.9,Same
+H0098,READM_30_PN,Pneumonia 30-Day Readmission Rate,88.6,Same
+H0099,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,112.4,Same
+H0099,READM_30_HF,Heart Failure 30-Day Readmission Rate,97.1,Same
+H0099,READM_30_PN,Pneumonia 30-Day Readmission Rate,109.5,Worse
+H0100,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,81.4,Same
+H0100,READM_30_HF,Heart Failure 30-Day Readmission Rate,120.4,Better
+H0100,READM_30_PN,Pneumonia 30-Day Readmission Rate,80.4,Worse
+H0101,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,54.7,Same
+H0101,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.8,Same
+H0101,READM_30_PN,Pneumonia 30-Day Readmission Rate,103.1,Same
+H0102,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,92.6,Same
+H0102,READM_30_HF,Heart Failure 30-Day Readmission Rate,107.1,Same
+H0102,READM_30_PN,Pneumonia 30-Day Readmission Rate,107.6,Same
+H0103,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,105.9,Same
+H0103,READM_30_HF,Heart Failure 30-Day Readmission Rate,92.4,Same
+H0103,READM_30_PN,Pneumonia 30-Day Readmission Rate,89.6,Same
+H0104,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,93.9,Better
+H0104,READM_30_HF,Heart Failure 30-Day Readmission Rate,87.7,Better
+H0104,READM_30_PN,Pneumonia 30-Day Readmission Rate,116.8,Same
+H0105,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,95.1,Worse
+H0105,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.3,Better
+H0105,READM_30_PN,Pneumonia 30-Day Readmission Rate,112.4,Same
+H0106,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,87,Better
+H0106,READM_30_HF,Heart Failure 30-Day Readmission Rate,79.8,Worse
+H0106,READM_30_PN,Pneumonia 30-Day Readmission Rate,87.7,Same
+H0107,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,103.9,Same
+H0107,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.9,Worse
+H0107,READM_30_PN,Pneumonia 30-Day Readmission Rate,105.9,Better
+H0108,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.5,Same
+H0108,READM_30_HF,Heart Failure 30-Day Readmission Rate,63.4,Same
+H0108,READM_30_PN,Pneumonia 30-Day Readmission Rate,98,Same
+H0109,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.5,Worse
+H0109,READM_30_HF,Heart Failure 30-Day Readmission Rate,118.5,Same
+H0109,READM_30_PN,Pneumonia 30-Day Readmission Rate,101.3,Same
+H0110,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,103,Better
+H0110,READM_30_HF,Heart Failure 30-Day Readmission Rate,109.2,Better
+H0110,READM_30_PN,Pneumonia 30-Day Readmission Rate,118.1,Same
+H0111,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,100,Same
+H0111,READM_30_HF,Heart Failure 30-Day Readmission Rate,109,Same
+H0111,READM_30_PN,Pneumonia 30-Day Readmission Rate,91.7,Same
+H0112,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,81.7,Better
+H0112,READM_30_HF,Heart Failure 30-Day Readmission Rate,93.2,Worse
+H0112,READM_30_PN,Pneumonia 30-Day Readmission Rate,121.8,Worse
+H0113,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,109.3,Same
+H0113,READM_30_HF,Heart Failure 30-Day Readmission Rate,82.9,Worse
+H0113,READM_30_PN,Pneumonia 30-Day Readmission Rate,110.1,Same
+H0114,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,83.9,Same
+H0114,READM_30_HF,Heart Failure 30-Day Readmission Rate,105.6,Same
+H0114,READM_30_PN,Pneumonia 30-Day Readmission Rate,86.5,Same
+H0115,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,82.2,Same
+H0115,READM_30_HF,Heart Failure 30-Day Readmission Rate,124.6,Better
+H0115,READM_30_PN,Pneumonia 30-Day Readmission Rate,95.1,Same
+H0116,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,109,Better
+H0116,READM_30_HF,Heart Failure 30-Day Readmission Rate,100.6,Same
+H0116,READM_30_PN,Pneumonia 30-Day Readmission Rate,85,Worse
+H0117,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,96.6,Same
+H0117,READM_30_HF,Heart Failure 30-Day Readmission Rate,85.1,Same
+H0117,READM_30_PN,Pneumonia 30-Day Readmission Rate,136.2,Better
+H0118,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,111.8,Same
+H0118,READM_30_HF,Heart Failure 30-Day Readmission Rate,100.3,Same
+H0118,READM_30_PN,Pneumonia 30-Day Readmission Rate,108.2,Same
+H0119,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,110.7,Same
+H0119,READM_30_HF,Heart Failure 30-Day Readmission Rate,110.8,Worse
+H0119,READM_30_PN,Pneumonia 30-Day Readmission Rate,110.1,Better
+H0120,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,108.9,Same
+H0120,READM_30_HF,Heart Failure 30-Day Readmission Rate,101.5,Same
+H0120,READM_30_PN,Pneumonia 30-Day Readmission Rate,123.2,Same
+H0121,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,102.5,Worse
+H0121,READM_30_HF,Heart Failure 30-Day Readmission Rate,100.8,Better
+H0121,READM_30_PN,Pneumonia 30-Day Readmission Rate,102.6,Same
+H0122,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,103.7,Same
+H0122,READM_30_HF,Heart Failure 30-Day Readmission Rate,76,Better
+H0122,READM_30_PN,Pneumonia 30-Day Readmission Rate,87.6,Same
+H0123,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,98.5,Same
+H0123,READM_30_HF,Heart Failure 30-Day Readmission Rate,75.4,Same
+H0123,READM_30_PN,Pneumonia 30-Day Readmission Rate,100.3,Worse
+H0124,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,103.5,Better
+H0124,READM_30_HF,Heart Failure 30-Day Readmission Rate,81.1,Better
+H0124,READM_30_PN,Pneumonia 30-Day Readmission Rate,90.8,Better
+H0125,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,119.2,Same
+H0125,READM_30_HF,Heart Failure 30-Day Readmission Rate,108.4,Better
+H0125,READM_30_PN,Pneumonia 30-Day Readmission Rate,107.5,Same
+H0126,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,117.1,Same
+H0126,READM_30_HF,Heart Failure 30-Day Readmission Rate,87.8,Worse
+H0126,READM_30_PN,Pneumonia 30-Day Readmission Rate,81.1,Same
+H0127,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,114.8,Same
+H0127,READM_30_HF,Heart Failure 30-Day Readmission Rate,98.9,Better
+H0127,READM_30_PN,Pneumonia 30-Day Readmission Rate,87.5,Better
+H0128,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,131.3,Worse
+H0128,READM_30_HF,Heart Failure 30-Day Readmission Rate,75.9,Same
+H0128,READM_30_PN,Pneumonia 30-Day Readmission Rate,102.8,Same
+H0129,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,97.1,Worse
+H0129,READM_30_HF,Heart Failure 30-Day Readmission Rate,94.6,Same
+H0129,READM_30_PN,Pneumonia 30-Day Readmission Rate,66.8,Better
+H0130,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,123,Better
+H0130,READM_30_HF,Heart Failure 30-Day Readmission Rate,78.6,Better
+H0130,READM_30_PN,Pneumonia 30-Day Readmission Rate,96,Worse
+H0131,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,93.6,Worse
+H0131,READM_30_HF,Heart Failure 30-Day Readmission Rate,108.8,Better
+H0131,READM_30_PN,Pneumonia 30-Day Readmission Rate,76,Same
+H0132,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,106.9,Same
+H0132,READM_30_HF,Heart Failure 30-Day Readmission Rate,102.8,Worse
+H0132,READM_30_PN,Pneumonia 30-Day Readmission Rate,90.1,Better
+H0133,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,106.4,Same
+H0133,READM_30_HF,Heart Failure 30-Day Readmission Rate,100.3,Better
+H0133,READM_30_PN,Pneumonia 30-Day Readmission Rate,127.1,Same
+H0134,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,97.1,Same
+H0134,READM_30_HF,Heart Failure 30-Day Readmission Rate,85.7,Same
+H0134,READM_30_PN,Pneumonia 30-Day Readmission Rate,107.1,Same
+H0135,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,95.3,Better
+H0135,READM_30_HF,Heart Failure 30-Day Readmission Rate,100,Same
+H0135,READM_30_PN,Pneumonia 30-Day Readmission Rate,81.2,Same
+H0136,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,109.1,Worse
+H0136,READM_30_HF,Heart Failure 30-Day Readmission Rate,92.9,Same
+H0136,READM_30_PN,Pneumonia 30-Day Readmission Rate,104,Better
+H0137,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,131.5,Better
+H0137,READM_30_HF,Heart Failure 30-Day Readmission Rate,96.3,Same
+H0137,READM_30_PN,Pneumonia 30-Day Readmission Rate,111.2,Worse
+H0138,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,97.3,Better
+H0138,READM_30_HF,Heart Failure 30-Day Readmission Rate,90.3,Same
+H0138,READM_30_PN,Pneumonia 30-Day Readmission Rate,119.8,Same
+H0139,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,72,Same
+H0139,READM_30_HF,Heart Failure 30-Day Readmission Rate,115.1,Same
+H0139,READM_30_PN,Pneumonia 30-Day Readmission Rate,70.4,Same
+H0140,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,113.4,Same
+H0140,READM_30_HF,Heart Failure 30-Day Readmission Rate,100.2,Same
+H0140,READM_30_PN,Pneumonia 30-Day Readmission Rate,85.7,Better
+H0141,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,93.9,Worse
+H0141,READM_30_HF,Heart Failure 30-Day Readmission Rate,110.3,Same
+H0141,READM_30_PN,Pneumonia 30-Day Readmission Rate,129.6,Same
+H0142,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,76.5,Same
+H0142,READM_30_HF,Heart Failure 30-Day Readmission Rate,86.5,Worse
+H0142,READM_30_PN,Pneumonia 30-Day Readmission Rate,80,Worse
+H0143,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,97.2,Same
+H0143,READM_30_HF,Heart Failure 30-Day Readmission Rate,113.8,Same
+H0143,READM_30_PN,Pneumonia 30-Day Readmission Rate,78.2,Same
+H0144,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,99.8,Better
+H0144,READM_30_HF,Heart Failure 30-Day Readmission Rate,113.3,Same
+H0144,READM_30_PN,Pneumonia 30-Day Readmission Rate,93.7,Better
+H0145,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,60.9,Worse
+H0145,READM_30_HF,Heart Failure 30-Day Readmission Rate,103,Worse
+H0145,READM_30_PN,Pneumonia 30-Day Readmission Rate,118.5,Same
+H0146,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,83.9,Same
+H0146,READM_30_HF,Heart Failure 30-Day Readmission Rate,73.3,Same
+H0146,READM_30_PN,Pneumonia 30-Day Readmission Rate,104.8,Better
+H0147,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,105.2,Better
+H0147,READM_30_HF,Heart Failure 30-Day Readmission Rate,92.7,Same
+H0147,READM_30_PN,Pneumonia 30-Day Readmission Rate,89.9,Worse
+H0148,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,100.5,Same
+H0148,READM_30_HF,Heart Failure 30-Day Readmission Rate,83.7,Same
+H0148,READM_30_PN,Pneumonia 30-Day Readmission Rate,83.7,Better
+H0149,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,110.2,Same
+H0149,READM_30_HF,Heart Failure 30-Day Readmission Rate,82.8,Worse
+H0149,READM_30_PN,Pneumonia 30-Day Readmission Rate,74.1,Same
+H0150,READM_30_AMI,Acute Myocardial Infarction 30-Day Readmission Rate,89.8,Same
+H0150,READM_30_HF,Heart Failure 30-Day Readmission Rate,93,Same
+H0150,READM_30_PN,Pneumonia 30-Day Readmission Rate,106.9,Worse

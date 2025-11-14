@@ -1,0 +1,451 @@
+hospital_id,measure_id,measure_name,score,compared_to_national
+H0001,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,81.7,Better
+H0001,MORT_30_HF,Heart Failure 30-Day Mortality Rate,110.7,Same
+H0001,MORT_30_PN,Pneumonia 30-Day Mortality Rate,110.7,Worse
+H0002,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,106.7,Same
+H0002,MORT_30_HF,Heart Failure 30-Day Mortality Rate,83.8,Same
+H0002,MORT_30_PN,Pneumonia 30-Day Mortality Rate,109.2,Worse
+H0003,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,104.9,Same
+H0003,MORT_30_HF,Heart Failure 30-Day Mortality Rate,81.2,Worse
+H0003,MORT_30_PN,Pneumonia 30-Day Mortality Rate,92.2,Same
+H0004,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,115.7,Same
+H0004,MORT_30_HF,Heart Failure 30-Day Mortality Rate,76.7,Same
+H0004,MORT_30_PN,Pneumonia 30-Day Mortality Rate,109.1,Same
+H0005,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,68.8,Same
+H0005,MORT_30_HF,Heart Failure 30-Day Mortality Rate,125.4,Worse
+H0005,MORT_30_PN,Pneumonia 30-Day Mortality Rate,91.8,Worse
+H0006,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,106,Same
+H0006,MORT_30_HF,Heart Failure 30-Day Mortality Rate,101.7,Same
+H0006,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.3,Better
+H0007,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,104.6,Same
+H0007,MORT_30_HF,Heart Failure 30-Day Mortality Rate,74.3,Same
+H0007,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.6,Worse
+H0008,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,97.2,Same
+H0008,MORT_30_HF,Heart Failure 30-Day Mortality Rate,91.9,Better
+H0008,MORT_30_PN,Pneumonia 30-Day Mortality Rate,88.3,Worse
+H0009,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,102.9,Same
+H0009,MORT_30_HF,Heart Failure 30-Day Mortality Rate,85.3,Same
+H0009,MORT_30_PN,Pneumonia 30-Day Mortality Rate,115.4,Same
+H0010,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,107.1,Better
+H0010,MORT_30_HF,Heart Failure 30-Day Mortality Rate,103.8,Same
+H0010,MORT_30_PN,Pneumonia 30-Day Mortality Rate,114.7,Same
+H0011,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,72.4,Same
+H0011,MORT_30_HF,Heart Failure 30-Day Mortality Rate,80.8,Better
+H0011,MORT_30_PN,Pneumonia 30-Day Mortality Rate,107.8,Better
+H0012,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,89.1,Same
+H0012,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90.8,Same
+H0012,MORT_30_PN,Pneumonia 30-Day Mortality Rate,78.9,Same
+H0013,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,85.4,Same
+H0013,MORT_30_HF,Heart Failure 30-Day Mortality Rate,115.8,Same
+H0013,MORT_30_PN,Pneumonia 30-Day Mortality Rate,107.4,Same
+H0014,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,102.8,Same
+H0014,MORT_30_HF,Heart Failure 30-Day Mortality Rate,91.4,Same
+H0014,MORT_30_PN,Pneumonia 30-Day Mortality Rate,101.8,Same
+H0015,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,117.2,Better
+H0015,MORT_30_HF,Heart Failure 30-Day Mortality Rate,89.5,Better
+H0015,MORT_30_PN,Pneumonia 30-Day Mortality Rate,99.5,Same
+H0016,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,126.6,Same
+H0016,MORT_30_HF,Heart Failure 30-Day Mortality Rate,110.6,Same
+H0016,MORT_30_PN,Pneumonia 30-Day Mortality Rate,91.6,Same
+H0017,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,109.3,Same
+H0017,MORT_30_HF,Heart Failure 30-Day Mortality Rate,76.4,Better
+H0017,MORT_30_PN,Pneumonia 30-Day Mortality Rate,98.9,Better
+H0018,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,109.3,Same
+H0018,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105.7,Worse
+H0018,MORT_30_PN,Pneumonia 30-Day Mortality Rate,109.2,Same
+H0019,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,112.5,Same
+H0019,MORT_30_HF,Heart Failure 30-Day Mortality Rate,106.9,Same
+H0019,MORT_30_PN,Pneumonia 30-Day Mortality Rate,106.4,Better
+H0020,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,103.1,Same
+H0020,MORT_30_HF,Heart Failure 30-Day Mortality Rate,83.8,Worse
+H0020,MORT_30_PN,Pneumonia 30-Day Mortality Rate,115.8,Worse
+H0021,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,99.4,Worse
+H0021,MORT_30_HF,Heart Failure 30-Day Mortality Rate,110.2,Worse
+H0021,MORT_30_PN,Pneumonia 30-Day Mortality Rate,114.1,Better
+H0022,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,92.3,Same
+H0022,MORT_30_HF,Heart Failure 30-Day Mortality Rate,93.5,Better
+H0022,MORT_30_PN,Pneumonia 30-Day Mortality Rate,95.4,Same
+H0023,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,118.8,Better
+H0023,MORT_30_HF,Heart Failure 30-Day Mortality Rate,86.6,Same
+H0023,MORT_30_PN,Pneumonia 30-Day Mortality Rate,121.7,Same
+H0024,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,102.9,Same
+H0024,MORT_30_HF,Heart Failure 30-Day Mortality Rate,104,Same
+H0024,MORT_30_PN,Pneumonia 30-Day Mortality Rate,113.3,Better
+H0025,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,101.2,Worse
+H0025,MORT_30_HF,Heart Failure 30-Day Mortality Rate,116,Same
+H0025,MORT_30_PN,Pneumonia 30-Day Mortality Rate,92.2,Same
+H0026,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,121.1,Same
+H0026,MORT_30_HF,Heart Failure 30-Day Mortality Rate,93.3,Same
+H0026,MORT_30_PN,Pneumonia 30-Day Mortality Rate,121.8,Same
+H0027,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,93.7,Same
+H0027,MORT_30_HF,Heart Failure 30-Day Mortality Rate,95.8,Same
+H0027,MORT_30_PN,Pneumonia 30-Day Mortality Rate,84.9,Better
+H0028,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,88.5,Better
+H0028,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99.5,Same
+H0028,MORT_30_PN,Pneumonia 30-Day Mortality Rate,103.5,Same
+H0029,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,114.8,Worse
+H0029,MORT_30_HF,Heart Failure 30-Day Mortality Rate,96.8,Same
+H0029,MORT_30_PN,Pneumonia 30-Day Mortality Rate,83.2,Worse
+H0030,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,105.7,Same
+H0030,MORT_30_HF,Heart Failure 30-Day Mortality Rate,102.5,Same
+H0030,MORT_30_PN,Pneumonia 30-Day Mortality Rate,107.4,Same
+H0031,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,90.4,Same
+H0031,MORT_30_HF,Heart Failure 30-Day Mortality Rate,92,Better
+H0031,MORT_30_PN,Pneumonia 30-Day Mortality Rate,90.4,Better
+H0032,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,117.8,Worse
+H0032,MORT_30_HF,Heart Failure 30-Day Mortality Rate,121.3,Same
+H0032,MORT_30_PN,Pneumonia 30-Day Mortality Rate,91.4,Better
+H0033,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.7,Same
+H0033,MORT_30_HF,Heart Failure 30-Day Mortality Rate,109.5,Same
+H0033,MORT_30_PN,Pneumonia 30-Day Mortality Rate,123.2,Better
+H0034,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,126.9,Worse
+H0034,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90.8,Worse
+H0034,MORT_30_PN,Pneumonia 30-Day Mortality Rate,94.2,Worse
+H0035,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,104.3,Same
+H0035,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105,Same
+H0035,MORT_30_PN,Pneumonia 30-Day Mortality Rate,97.3,Same
+H0036,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,88,Same
+H0036,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99.5,Better
+H0036,MORT_30_PN,Pneumonia 30-Day Mortality Rate,126.9,Same
+H0037,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,92.2,Worse
+H0037,MORT_30_HF,Heart Failure 30-Day Mortality Rate,103.4,Same
+H0037,MORT_30_PN,Pneumonia 30-Day Mortality Rate,137.9,Worse
+H0038,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,92,Same
+H0038,MORT_30_HF,Heart Failure 30-Day Mortality Rate,110.2,Same
+H0038,MORT_30_PN,Pneumonia 30-Day Mortality Rate,127.7,Worse
+H0039,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,108.9,Worse
+H0039,MORT_30_HF,Heart Failure 30-Day Mortality Rate,116.6,Worse
+H0039,MORT_30_PN,Pneumonia 30-Day Mortality Rate,112.3,Same
+H0040,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,107.6,Same
+H0040,MORT_30_HF,Heart Failure 30-Day Mortality Rate,120.7,Better
+H0040,MORT_30_PN,Pneumonia 30-Day Mortality Rate,109.7,Worse
+H0041,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,97.5,Same
+H0041,MORT_30_HF,Heart Failure 30-Day Mortality Rate,102.2,Same
+H0041,MORT_30_PN,Pneumonia 30-Day Mortality Rate,105.5,Worse
+H0042,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,94.1,Same
+H0042,MORT_30_HF,Heart Failure 30-Day Mortality Rate,102.9,Same
+H0042,MORT_30_PN,Pneumonia 30-Day Mortality Rate,100.7,Same
+H0043,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,109.7,Same
+H0043,MORT_30_HF,Heart Failure 30-Day Mortality Rate,132.4,Better
+H0043,MORT_30_PN,Pneumonia 30-Day Mortality Rate,103.7,Worse
+H0044,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,123.7,Same
+H0044,MORT_30_HF,Heart Failure 30-Day Mortality Rate,109.1,Better
+H0044,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.8,Worse
+H0045,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,93.3,Same
+H0045,MORT_30_HF,Heart Failure 30-Day Mortality Rate,102.9,Same
+H0045,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102,Same
+H0046,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,89.5,Same
+H0046,MORT_30_HF,Heart Failure 30-Day Mortality Rate,91.6,Same
+H0046,MORT_30_PN,Pneumonia 30-Day Mortality Rate,105.7,Better
+H0047,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,123.5,Same
+H0047,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99,Same
+H0047,MORT_30_PN,Pneumonia 30-Day Mortality Rate,78.3,Better
+H0048,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,67,Same
+H0048,MORT_30_HF,Heart Failure 30-Day Mortality Rate,84.7,Better
+H0048,MORT_30_PN,Pneumonia 30-Day Mortality Rate,110.6,Same
+H0049,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,80.8,Worse
+H0049,MORT_30_HF,Heart Failure 30-Day Mortality Rate,113.1,Better
+H0049,MORT_30_PN,Pneumonia 30-Day Mortality Rate,109.8,Same
+H0050,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,98.5,Same
+H0050,MORT_30_HF,Heart Failure 30-Day Mortality Rate,77.1,Worse
+H0050,MORT_30_PN,Pneumonia 30-Day Mortality Rate,89.6,Same
+H0051,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,96.4,Same
+H0051,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105.3,Better
+H0051,MORT_30_PN,Pneumonia 30-Day Mortality Rate,81.2,Worse
+H0052,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,121.7,Same
+H0052,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105.1,Same
+H0052,MORT_30_PN,Pneumonia 30-Day Mortality Rate,106.9,Worse
+H0053,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,109.6,Better
+H0053,MORT_30_HF,Heart Failure 30-Day Mortality Rate,119.9,Better
+H0053,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.9,Same
+H0054,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,110.6,Same
+H0054,MORT_30_HF,Heart Failure 30-Day Mortality Rate,89.9,Same
+H0054,MORT_30_PN,Pneumonia 30-Day Mortality Rate,127,Same
+H0055,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,101.9,Same
+H0055,MORT_30_HF,Heart Failure 30-Day Mortality Rate,89.8,Same
+H0055,MORT_30_PN,Pneumonia 30-Day Mortality Rate,93.3,Better
+H0056,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,71.7,Better
+H0056,MORT_30_HF,Heart Failure 30-Day Mortality Rate,93.2,Same
+H0056,MORT_30_PN,Pneumonia 30-Day Mortality Rate,63.6,Same
+H0057,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,111.8,Same
+H0057,MORT_30_HF,Heart Failure 30-Day Mortality Rate,106.4,Better
+H0057,MORT_30_PN,Pneumonia 30-Day Mortality Rate,85.5,Same
+H0058,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,99.3,Worse
+H0058,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99.9,Same
+H0058,MORT_30_PN,Pneumonia 30-Day Mortality Rate,82.6,Same
+H0059,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,96.7,Same
+H0059,MORT_30_HF,Heart Failure 30-Day Mortality Rate,100.4,Same
+H0059,MORT_30_PN,Pneumonia 30-Day Mortality Rate,96.3,Better
+H0060,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,89.8,Better
+H0060,MORT_30_HF,Heart Failure 30-Day Mortality Rate,85,Same
+H0060,MORT_30_PN,Pneumonia 30-Day Mortality Rate,95.8,Same
+H0061,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.4,Better
+H0061,MORT_30_HF,Heart Failure 30-Day Mortality Rate,108.6,Better
+H0061,MORT_30_PN,Pneumonia 30-Day Mortality Rate,121,Better
+H0062,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,113.9,Worse
+H0062,MORT_30_HF,Heart Failure 30-Day Mortality Rate,100.9,Same
+H0062,MORT_30_PN,Pneumonia 30-Day Mortality Rate,90.3,Worse
+H0063,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,113.4,Same
+H0063,MORT_30_HF,Heart Failure 30-Day Mortality Rate,109.5,Worse
+H0063,MORT_30_PN,Pneumonia 30-Day Mortality Rate,119.8,Same
+H0064,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,103,Same
+H0064,MORT_30_HF,Heart Failure 30-Day Mortality Rate,126,Better
+H0064,MORT_30_PN,Pneumonia 30-Day Mortality Rate,103,Better
+H0065,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,90.2,Worse
+H0065,MORT_30_HF,Heart Failure 30-Day Mortality Rate,92.7,Same
+H0065,MORT_30_PN,Pneumonia 30-Day Mortality Rate,107.8,Same
+H0066,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.4,Same
+H0066,MORT_30_HF,Heart Failure 30-Day Mortality Rate,125.9,Same
+H0066,MORT_30_PN,Pneumonia 30-Day Mortality Rate,106.5,Worse
+H0067,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,100.6,Better
+H0067,MORT_30_HF,Heart Failure 30-Day Mortality Rate,101.8,Same
+H0067,MORT_30_PN,Pneumonia 30-Day Mortality Rate,96.1,Worse
+H0068,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,75,Same
+H0068,MORT_30_HF,Heart Failure 30-Day Mortality Rate,92.8,Same
+H0068,MORT_30_PN,Pneumonia 30-Day Mortality Rate,123.6,Same
+H0069,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,103.4,Same
+H0069,MORT_30_HF,Heart Failure 30-Day Mortality Rate,115.7,Same
+H0069,MORT_30_PN,Pneumonia 30-Day Mortality Rate,116.2,Worse
+H0070,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,99.4,Same
+H0070,MORT_30_HF,Heart Failure 30-Day Mortality Rate,109.8,Worse
+H0070,MORT_30_PN,Pneumonia 30-Day Mortality Rate,76.4,Same
+H0071,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,122.1,Same
+H0071,MORT_30_HF,Heart Failure 30-Day Mortality Rate,120.7,Better
+H0071,MORT_30_PN,Pneumonia 30-Day Mortality Rate,107.4,Better
+H0072,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,103.9,Same
+H0072,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99.6,Same
+H0072,MORT_30_PN,Pneumonia 30-Day Mortality Rate,117.6,Worse
+H0073,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,111.6,Same
+H0073,MORT_30_HF,Heart Failure 30-Day Mortality Rate,57.3,Same
+H0073,MORT_30_PN,Pneumonia 30-Day Mortality Rate,94.6,Worse
+H0074,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,83.2,Same
+H0074,MORT_30_HF,Heart Failure 30-Day Mortality Rate,80.6,Same
+H0074,MORT_30_PN,Pneumonia 30-Day Mortality Rate,117.4,Better
+H0075,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,99.3,Same
+H0075,MORT_30_HF,Heart Failure 30-Day Mortality Rate,107.2,Better
+H0075,MORT_30_PN,Pneumonia 30-Day Mortality Rate,101.2,Same
+H0076,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,80.8,Worse
+H0076,MORT_30_HF,Heart Failure 30-Day Mortality Rate,76.7,Same
+H0076,MORT_30_PN,Pneumonia 30-Day Mortality Rate,93.6,Same
+H0077,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,94.8,Better
+H0077,MORT_30_HF,Heart Failure 30-Day Mortality Rate,94.8,Same
+H0077,MORT_30_PN,Pneumonia 30-Day Mortality Rate,95.2,Worse
+H0078,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,131.2,Worse
+H0078,MORT_30_HF,Heart Failure 30-Day Mortality Rate,115.5,Same
+H0078,MORT_30_PN,Pneumonia 30-Day Mortality Rate,103.6,Better
+H0079,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,98.9,Same
+H0079,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99.4,Worse
+H0079,MORT_30_PN,Pneumonia 30-Day Mortality Rate,111,Same
+H0080,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,98.8,Same
+H0080,MORT_30_HF,Heart Failure 30-Day Mortality Rate,113.7,Same
+H0080,MORT_30_PN,Pneumonia 30-Day Mortality Rate,105.2,Same
+H0081,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,131.3,Better
+H0081,MORT_30_HF,Heart Failure 30-Day Mortality Rate,97.9,Better
+H0081,MORT_30_PN,Pneumonia 30-Day Mortality Rate,116.6,Same
+H0082,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,84.4,Same
+H0082,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90.6,Worse
+H0082,MORT_30_PN,Pneumonia 30-Day Mortality Rate,128.7,Better
+H0083,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,113.1,Worse
+H0083,MORT_30_HF,Heart Failure 30-Day Mortality Rate,107.4,Same
+H0083,MORT_30_PN,Pneumonia 30-Day Mortality Rate,136.1,Worse
+H0084,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,99.1,Same
+H0084,MORT_30_HF,Heart Failure 30-Day Mortality Rate,116.6,Same
+H0084,MORT_30_PN,Pneumonia 30-Day Mortality Rate,117.8,Same
+H0085,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,124.5,Better
+H0085,MORT_30_HF,Heart Failure 30-Day Mortality Rate,82.8,Same
+H0085,MORT_30_PN,Pneumonia 30-Day Mortality Rate,99,Worse
+H0086,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,104.9,Same
+H0086,MORT_30_HF,Heart Failure 30-Day Mortality Rate,124.2,Worse
+H0086,MORT_30_PN,Pneumonia 30-Day Mortality Rate,106.8,Same
+H0087,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,117.8,Worse
+H0087,MORT_30_HF,Heart Failure 30-Day Mortality Rate,81.6,Same
+H0087,MORT_30_PN,Pneumonia 30-Day Mortality Rate,95.5,Worse
+H0088,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,120.6,Better
+H0088,MORT_30_HF,Heart Failure 30-Day Mortality Rate,97.4,Same
+H0088,MORT_30_PN,Pneumonia 30-Day Mortality Rate,100.2,Same
+H0089,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,123.9,Same
+H0089,MORT_30_HF,Heart Failure 30-Day Mortality Rate,87.3,Same
+H0089,MORT_30_PN,Pneumonia 30-Day Mortality Rate,90.4,Same
+H0090,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,80.2,Better
+H0090,MORT_30_HF,Heart Failure 30-Day Mortality Rate,124.6,Same
+H0090,MORT_30_PN,Pneumonia 30-Day Mortality Rate,115.1,Same
+H0091,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,114.7,Same
+H0091,MORT_30_HF,Heart Failure 30-Day Mortality Rate,95.1,Same
+H0091,MORT_30_PN,Pneumonia 30-Day Mortality Rate,79.2,Same
+H0092,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,75.3,Same
+H0092,MORT_30_HF,Heart Failure 30-Day Mortality Rate,120.8,Worse
+H0092,MORT_30_PN,Pneumonia 30-Day Mortality Rate,108.5,Same
+H0093,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,111.4,Same
+H0093,MORT_30_HF,Heart Failure 30-Day Mortality Rate,104.2,Worse
+H0093,MORT_30_PN,Pneumonia 30-Day Mortality Rate,88.7,Same
+H0094,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,95.8,Same
+H0094,MORT_30_HF,Heart Failure 30-Day Mortality Rate,85.2,Worse
+H0094,MORT_30_PN,Pneumonia 30-Day Mortality Rate,83.4,Same
+H0095,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,113.8,Same
+H0095,MORT_30_HF,Heart Failure 30-Day Mortality Rate,76.4,Same
+H0095,MORT_30_PN,Pneumonia 30-Day Mortality Rate,85.3,Better
+H0096,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,96.6,Same
+H0096,MORT_30_HF,Heart Failure 30-Day Mortality Rate,101.6,Same
+H0096,MORT_30_PN,Pneumonia 30-Day Mortality Rate,80,Better
+H0097,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,76.1,Worse
+H0097,MORT_30_HF,Heart Failure 30-Day Mortality Rate,106.6,Same
+H0097,MORT_30_PN,Pneumonia 30-Day Mortality Rate,103.4,Better
+H0098,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,120.5,Same
+H0098,MORT_30_HF,Heart Failure 30-Day Mortality Rate,101.8,Worse
+H0098,MORT_30_PN,Pneumonia 30-Day Mortality Rate,108.1,Worse
+H0099,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,89.5,Same
+H0099,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90.1,Same
+H0099,MORT_30_PN,Pneumonia 30-Day Mortality Rate,81.3,Same
+H0100,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,89.6,Same
+H0100,MORT_30_HF,Heart Failure 30-Day Mortality Rate,95.6,Same
+H0100,MORT_30_PN,Pneumonia 30-Day Mortality Rate,118.7,Better
+H0101,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,87.5,Same
+H0101,MORT_30_HF,Heart Failure 30-Day Mortality Rate,132.2,Better
+H0101,MORT_30_PN,Pneumonia 30-Day Mortality Rate,109.5,Same
+H0102,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,106.2,Better
+H0102,MORT_30_HF,Heart Failure 30-Day Mortality Rate,100.7,Same
+H0102,MORT_30_PN,Pneumonia 30-Day Mortality Rate,97.8,Same
+H0103,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.6,Same
+H0103,MORT_30_HF,Heart Failure 30-Day Mortality Rate,79.5,Same
+H0103,MORT_30_PN,Pneumonia 30-Day Mortality Rate,87.9,Same
+H0104,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,124.6,Same
+H0104,MORT_30_HF,Heart Failure 30-Day Mortality Rate,108.5,Same
+H0104,MORT_30_PN,Pneumonia 30-Day Mortality Rate,124.4,Better
+H0105,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.3,Same
+H0105,MORT_30_HF,Heart Failure 30-Day Mortality Rate,84.8,Same
+H0105,MORT_30_PN,Pneumonia 30-Day Mortality Rate,100.5,Better
+H0106,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,88.5,Worse
+H0106,MORT_30_HF,Heart Failure 30-Day Mortality Rate,103.5,Worse
+H0106,MORT_30_PN,Pneumonia 30-Day Mortality Rate,76.7,Same
+H0107,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,70.1,Same
+H0107,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105.6,Same
+H0107,MORT_30_PN,Pneumonia 30-Day Mortality Rate,125.1,Same
+H0108,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,106.3,Better
+H0108,MORT_30_HF,Heart Failure 30-Day Mortality Rate,108.4,Better
+H0108,MORT_30_PN,Pneumonia 30-Day Mortality Rate,101.1,Same
+H0109,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,102.5,Better
+H0109,MORT_30_HF,Heart Failure 30-Day Mortality Rate,78.8,Same
+H0109,MORT_30_PN,Pneumonia 30-Day Mortality Rate,89,Same
+H0110,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,118.5,Same
+H0110,MORT_30_HF,Heart Failure 30-Day Mortality Rate,83.6,Worse
+H0110,MORT_30_PN,Pneumonia 30-Day Mortality Rate,95.3,Worse
+H0111,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,118.2,Same
+H0111,MORT_30_HF,Heart Failure 30-Day Mortality Rate,102.1,Same
+H0111,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.9,Better
+H0112,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,95.4,Worse
+H0112,MORT_30_HF,Heart Failure 30-Day Mortality Rate,110.6,Better
+H0112,MORT_30_PN,Pneumonia 30-Day Mortality Rate,114.4,Same
+H0113,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,88.2,Better
+H0113,MORT_30_HF,Heart Failure 30-Day Mortality Rate,80,Worse
+H0113,MORT_30_PN,Pneumonia 30-Day Mortality Rate,72.5,Same
+H0114,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,107.6,Same
+H0114,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105.8,Worse
+H0114,MORT_30_PN,Pneumonia 30-Day Mortality Rate,137.4,Same
+H0115,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,101.2,Same
+H0115,MORT_30_HF,Heart Failure 30-Day Mortality Rate,98.5,Worse
+H0115,MORT_30_PN,Pneumonia 30-Day Mortality Rate,104,Same
+H0116,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,104.8,Same
+H0116,MORT_30_HF,Heart Failure 30-Day Mortality Rate,97.4,Better
+H0116,MORT_30_PN,Pneumonia 30-Day Mortality Rate,88.7,Same
+H0117,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,100.4,Same
+H0117,MORT_30_HF,Heart Failure 30-Day Mortality Rate,99.9,Worse
+H0117,MORT_30_PN,Pneumonia 30-Day Mortality Rate,99.6,Same
+H0118,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,112.3,Same
+H0118,MORT_30_HF,Heart Failure 30-Day Mortality Rate,100.2,Same
+H0118,MORT_30_PN,Pneumonia 30-Day Mortality Rate,80.3,Better
+H0119,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,90.9,Better
+H0119,MORT_30_HF,Heart Failure 30-Day Mortality Rate,97.2,Better
+H0119,MORT_30_PN,Pneumonia 30-Day Mortality Rate,100.8,Worse
+H0120,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,107.9,Same
+H0120,MORT_30_HF,Heart Failure 30-Day Mortality Rate,101,Same
+H0120,MORT_30_PN,Pneumonia 30-Day Mortality Rate,70.4,Better
+H0121,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,81.9,Same
+H0121,MORT_30_HF,Heart Failure 30-Day Mortality Rate,109,Same
+H0121,MORT_30_PN,Pneumonia 30-Day Mortality Rate,96.8,Better
+H0122,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,122.4,Worse
+H0122,MORT_30_HF,Heart Failure 30-Day Mortality Rate,102.2,Worse
+H0122,MORT_30_PN,Pneumonia 30-Day Mortality Rate,94.9,Same
+H0123,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,90.8,Same
+H0123,MORT_30_HF,Heart Failure 30-Day Mortality Rate,95.5,Better
+H0123,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.4,Worse
+H0124,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,100,Same
+H0124,MORT_30_HF,Heart Failure 30-Day Mortality Rate,114.2,Same
+H0124,MORT_30_PN,Pneumonia 30-Day Mortality Rate,77.7,Same
+H0125,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,79.5,Same
+H0125,MORT_30_HF,Heart Failure 30-Day Mortality Rate,96.6,Same
+H0125,MORT_30_PN,Pneumonia 30-Day Mortality Rate,108.1,Same
+H0126,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,111.4,Better
+H0126,MORT_30_HF,Heart Failure 30-Day Mortality Rate,91.4,Better
+H0126,MORT_30_PN,Pneumonia 30-Day Mortality Rate,61.1,Same
+H0127,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.8,Same
+H0127,MORT_30_HF,Heart Failure 30-Day Mortality Rate,105.9,Same
+H0127,MORT_30_PN,Pneumonia 30-Day Mortality Rate,99.8,Better
+H0128,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,108.7,Same
+H0128,MORT_30_HF,Heart Failure 30-Day Mortality Rate,117.9,Better
+H0128,MORT_30_PN,Pneumonia 30-Day Mortality Rate,97.6,Same
+H0129,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,93.4,Same
+H0129,MORT_30_HF,Heart Failure 30-Day Mortality Rate,86.7,Same
+H0129,MORT_30_PN,Pneumonia 30-Day Mortality Rate,79.4,Same
+H0130,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,75.8,Same
+H0130,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90,Same
+H0130,MORT_30_PN,Pneumonia 30-Day Mortality Rate,115.6,Same
+H0131,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,110.2,Better
+H0131,MORT_30_HF,Heart Failure 30-Day Mortality Rate,92.7,Worse
+H0131,MORT_30_PN,Pneumonia 30-Day Mortality Rate,132.4,Same
+H0132,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,90.9,Worse
+H0132,MORT_30_HF,Heart Failure 30-Day Mortality Rate,119.5,Better
+H0132,MORT_30_PN,Pneumonia 30-Day Mortality Rate,123.4,Same
+H0133,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,106.9,Same
+H0133,MORT_30_HF,Heart Failure 30-Day Mortality Rate,89.8,Same
+H0133,MORT_30_PN,Pneumonia 30-Day Mortality Rate,94.5,Better
+H0134,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,102.8,Better
+H0134,MORT_30_HF,Heart Failure 30-Day Mortality Rate,79.8,Same
+H0134,MORT_30_PN,Pneumonia 30-Day Mortality Rate,85.4,Same
+H0135,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,84.3,Better
+H0135,MORT_30_HF,Heart Failure 30-Day Mortality Rate,108,Better
+H0135,MORT_30_PN,Pneumonia 30-Day Mortality Rate,117.8,Same
+H0136,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,110.8,Better
+H0136,MORT_30_HF,Heart Failure 30-Day Mortality Rate,114.9,Same
+H0136,MORT_30_PN,Pneumonia 30-Day Mortality Rate,88.6,Same
+H0137,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,95.2,Same
+H0137,MORT_30_HF,Heart Failure 30-Day Mortality Rate,96.2,Same
+H0137,MORT_30_PN,Pneumonia 30-Day Mortality Rate,106.8,Better
+H0138,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,132.5,Worse
+H0138,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90.3,Worse
+H0138,MORT_30_PN,Pneumonia 30-Day Mortality Rate,113.9,Same
+H0139,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,122.9,Worse
+H0139,MORT_30_HF,Heart Failure 30-Day Mortality Rate,107.6,Same
+H0139,MORT_30_PN,Pneumonia 30-Day Mortality Rate,94.5,Worse
+H0140,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,87.4,Same
+H0140,MORT_30_HF,Heart Failure 30-Day Mortality Rate,84.3,Same
+H0140,MORT_30_PN,Pneumonia 30-Day Mortality Rate,70.5,Same
+H0141,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,96.7,Worse
+H0141,MORT_30_HF,Heart Failure 30-Day Mortality Rate,95.8,Same
+H0141,MORT_30_PN,Pneumonia 30-Day Mortality Rate,112.9,Worse
+H0142,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,91.3,Worse
+H0142,MORT_30_HF,Heart Failure 30-Day Mortality Rate,97.5,Same
+H0142,MORT_30_PN,Pneumonia 30-Day Mortality Rate,104.2,Same
+H0143,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,107.4,Same
+H0143,MORT_30_HF,Heart Failure 30-Day Mortality Rate,111,Same
+H0143,MORT_30_PN,Pneumonia 30-Day Mortality Rate,102.7,Worse
+H0144,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,80.5,Worse
+H0144,MORT_30_HF,Heart Failure 30-Day Mortality Rate,106,Worse
+H0144,MORT_30_PN,Pneumonia 30-Day Mortality Rate,90.2,Same
+H0145,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,118.6,Same
+H0145,MORT_30_HF,Heart Failure 30-Day Mortality Rate,100.3,Same
+H0145,MORT_30_PN,Pneumonia 30-Day Mortality Rate,103.6,Same
+H0146,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,139,Same
+H0146,MORT_30_HF,Heart Failure 30-Day Mortality Rate,111.3,Same
+H0146,MORT_30_PN,Pneumonia 30-Day Mortality Rate,105.7,Same
+H0147,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,97.9,Better
+H0147,MORT_30_HF,Heart Failure 30-Day Mortality Rate,81.6,Same
+H0147,MORT_30_PN,Pneumonia 30-Day Mortality Rate,96.9,Worse
+H0148,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,87.2,Same
+H0148,MORT_30_HF,Heart Failure 30-Day Mortality Rate,125,Same
+H0148,MORT_30_PN,Pneumonia 30-Day Mortality Rate,105.9,Better
+H0149,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,117.9,Same
+H0149,MORT_30_HF,Heart Failure 30-Day Mortality Rate,90.9,Better
+H0149,MORT_30_PN,Pneumonia 30-Day Mortality Rate,88.2,Worse
+H0150,MORT_30_AMI,Acute Myocardial Infarction 30-Day Mortality Rate,109.7,Same
+H0150,MORT_30_HF,Heart Failure 30-Day Mortality Rate,86.7,Same
+H0150,MORT_30_PN,Pneumonia 30-Day Mortality Rate,93.4,Worse

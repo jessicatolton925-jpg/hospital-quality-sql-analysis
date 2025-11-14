@@ -1,0 +1,451 @@
+hospital_id,measure_id,measure_name,performance_category
+H0001,H_COMP_1,Nurses communicate well,Same as National
+H0001,H_COMP_2,Doctors communicate well,Same as National
+H0001,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0002,H_COMP_1,Nurses communicate well,Above National
+H0002,H_COMP_2,Doctors communicate well,Below National
+H0002,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0003,H_COMP_1,Nurses communicate well,Same as National
+H0003,H_COMP_2,Doctors communicate well,Above National
+H0003,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0004,H_COMP_1,Nurses communicate well,Same as National
+H0004,H_COMP_2,Doctors communicate well,Same as National
+H0004,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0005,H_COMP_1,Nurses communicate well,Above National
+H0005,H_COMP_2,Doctors communicate well,Same as National
+H0005,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0006,H_COMP_1,Nurses communicate well,Below National
+H0006,H_COMP_2,Doctors communicate well,Above National
+H0006,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0007,H_COMP_1,Nurses communicate well,Above National
+H0007,H_COMP_2,Doctors communicate well,Above National
+H0007,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0008,H_COMP_1,Nurses communicate well,Same as National
+H0008,H_COMP_2,Doctors communicate well,Above National
+H0008,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0009,H_COMP_1,Nurses communicate well,Above National
+H0009,H_COMP_2,Doctors communicate well,Below National
+H0009,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0010,H_COMP_1,Nurses communicate well,Above National
+H0010,H_COMP_2,Doctors communicate well,Above National
+H0010,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0011,H_COMP_1,Nurses communicate well,Below National
+H0011,H_COMP_2,Doctors communicate well,Same as National
+H0011,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0012,H_COMP_1,Nurses communicate well,Above National
+H0012,H_COMP_2,Doctors communicate well,Same as National
+H0012,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0013,H_COMP_1,Nurses communicate well,Above National
+H0013,H_COMP_2,Doctors communicate well,Same as National
+H0013,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0014,H_COMP_1,Nurses communicate well,Below National
+H0014,H_COMP_2,Doctors communicate well,Same as National
+H0014,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0015,H_COMP_1,Nurses communicate well,Same as National
+H0015,H_COMP_2,Doctors communicate well,Same as National
+H0015,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0016,H_COMP_1,Nurses communicate well,Same as National
+H0016,H_COMP_2,Doctors communicate well,Same as National
+H0016,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0017,H_COMP_1,Nurses communicate well,Same as National
+H0017,H_COMP_2,Doctors communicate well,Below National
+H0017,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0018,H_COMP_1,Nurses communicate well,Same as National
+H0018,H_COMP_2,Doctors communicate well,Above National
+H0018,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0019,H_COMP_1,Nurses communicate well,Below National
+H0019,H_COMP_2,Doctors communicate well,Below National
+H0019,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0020,H_COMP_1,Nurses communicate well,Above National
+H0020,H_COMP_2,Doctors communicate well,Below National
+H0020,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0021,H_COMP_1,Nurses communicate well,Above National
+H0021,H_COMP_2,Doctors communicate well,Same as National
+H0021,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0022,H_COMP_1,Nurses communicate well,Below National
+H0022,H_COMP_2,Doctors communicate well,Above National
+H0022,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0023,H_COMP_1,Nurses communicate well,Below National
+H0023,H_COMP_2,Doctors communicate well,Above National
+H0023,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0024,H_COMP_1,Nurses communicate well,Same as National
+H0024,H_COMP_2,Doctors communicate well,Same as National
+H0024,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0025,H_COMP_1,Nurses communicate well,Same as National
+H0025,H_COMP_2,Doctors communicate well,Above National
+H0025,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0026,H_COMP_1,Nurses communicate well,Below National
+H0026,H_COMP_2,Doctors communicate well,Below National
+H0026,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0027,H_COMP_1,Nurses communicate well,Above National
+H0027,H_COMP_2,Doctors communicate well,Same as National
+H0027,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0028,H_COMP_1,Nurses communicate well,Same as National
+H0028,H_COMP_2,Doctors communicate well,Same as National
+H0028,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0029,H_COMP_1,Nurses communicate well,Above National
+H0029,H_COMP_2,Doctors communicate well,Same as National
+H0029,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0030,H_COMP_1,Nurses communicate well,Above National
+H0030,H_COMP_2,Doctors communicate well,Same as National
+H0030,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0031,H_COMP_1,Nurses communicate well,Below National
+H0031,H_COMP_2,Doctors communicate well,Below National
+H0031,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0032,H_COMP_1,Nurses communicate well,Above National
+H0032,H_COMP_2,Doctors communicate well,Same as National
+H0032,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0033,H_COMP_1,Nurses communicate well,Same as National
+H0033,H_COMP_2,Doctors communicate well,Below National
+H0033,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0034,H_COMP_1,Nurses communicate well,Below National
+H0034,H_COMP_2,Doctors communicate well,Same as National
+H0034,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0035,H_COMP_1,Nurses communicate well,Same as National
+H0035,H_COMP_2,Doctors communicate well,Same as National
+H0035,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0036,H_COMP_1,Nurses communicate well,Same as National
+H0036,H_COMP_2,Doctors communicate well,Above National
+H0036,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0037,H_COMP_1,Nurses communicate well,Above National
+H0037,H_COMP_2,Doctors communicate well,Below National
+H0037,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0038,H_COMP_1,Nurses communicate well,Below National
+H0038,H_COMP_2,Doctors communicate well,Same as National
+H0038,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0039,H_COMP_1,Nurses communicate well,Below National
+H0039,H_COMP_2,Doctors communicate well,Same as National
+H0039,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0040,H_COMP_1,Nurses communicate well,Same as National
+H0040,H_COMP_2,Doctors communicate well,Same as National
+H0040,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0041,H_COMP_1,Nurses communicate well,Same as National
+H0041,H_COMP_2,Doctors communicate well,Same as National
+H0041,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0042,H_COMP_1,Nurses communicate well,Above National
+H0042,H_COMP_2,Doctors communicate well,Below National
+H0042,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0043,H_COMP_1,Nurses communicate well,Below National
+H0043,H_COMP_2,Doctors communicate well,Same as National
+H0043,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0044,H_COMP_1,Nurses communicate well,Above National
+H0044,H_COMP_2,Doctors communicate well,Below National
+H0044,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0045,H_COMP_1,Nurses communicate well,Below National
+H0045,H_COMP_2,Doctors communicate well,Below National
+H0045,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0046,H_COMP_1,Nurses communicate well,Above National
+H0046,H_COMP_2,Doctors communicate well,Below National
+H0046,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0047,H_COMP_1,Nurses communicate well,Below National
+H0047,H_COMP_2,Doctors communicate well,Above National
+H0047,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0048,H_COMP_1,Nurses communicate well,Below National
+H0048,H_COMP_2,Doctors communicate well,Same as National
+H0048,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0049,H_COMP_1,Nurses communicate well,Same as National
+H0049,H_COMP_2,Doctors communicate well,Same as National
+H0049,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0050,H_COMP_1,Nurses communicate well,Same as National
+H0050,H_COMP_2,Doctors communicate well,Same as National
+H0050,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0051,H_COMP_1,Nurses communicate well,Same as National
+H0051,H_COMP_2,Doctors communicate well,Same as National
+H0051,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0052,H_COMP_1,Nurses communicate well,Above National
+H0052,H_COMP_2,Doctors communicate well,Same as National
+H0052,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0053,H_COMP_1,Nurses communicate well,Same as National
+H0053,H_COMP_2,Doctors communicate well,Same as National
+H0053,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0054,H_COMP_1,Nurses communicate well,Above National
+H0054,H_COMP_2,Doctors communicate well,Above National
+H0054,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0055,H_COMP_1,Nurses communicate well,Below National
+H0055,H_COMP_2,Doctors communicate well,Above National
+H0055,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0056,H_COMP_1,Nurses communicate well,Same as National
+H0056,H_COMP_2,Doctors communicate well,Same as National
+H0056,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0057,H_COMP_1,Nurses communicate well,Same as National
+H0057,H_COMP_2,Doctors communicate well,Same as National
+H0057,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0058,H_COMP_1,Nurses communicate well,Above National
+H0058,H_COMP_2,Doctors communicate well,Same as National
+H0058,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0059,H_COMP_1,Nurses communicate well,Same as National
+H0059,H_COMP_2,Doctors communicate well,Same as National
+H0059,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0060,H_COMP_1,Nurses communicate well,Above National
+H0060,H_COMP_2,Doctors communicate well,Same as National
+H0060,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0061,H_COMP_1,Nurses communicate well,Below National
+H0061,H_COMP_2,Doctors communicate well,Above National
+H0061,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0062,H_COMP_1,Nurses communicate well,Same as National
+H0062,H_COMP_2,Doctors communicate well,Same as National
+H0062,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0063,H_COMP_1,Nurses communicate well,Above National
+H0063,H_COMP_2,Doctors communicate well,Above National
+H0063,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0064,H_COMP_1,Nurses communicate well,Same as National
+H0064,H_COMP_2,Doctors communicate well,Below National
+H0064,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0065,H_COMP_1,Nurses communicate well,Above National
+H0065,H_COMP_2,Doctors communicate well,Same as National
+H0065,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0066,H_COMP_1,Nurses communicate well,Same as National
+H0066,H_COMP_2,Doctors communicate well,Same as National
+H0066,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0067,H_COMP_1,Nurses communicate well,Below National
+H0067,H_COMP_2,Doctors communicate well,Same as National
+H0067,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0068,H_COMP_1,Nurses communicate well,Below National
+H0068,H_COMP_2,Doctors communicate well,Same as National
+H0068,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0069,H_COMP_1,Nurses communicate well,Same as National
+H0069,H_COMP_2,Doctors communicate well,Above National
+H0069,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0070,H_COMP_1,Nurses communicate well,Same as National
+H0070,H_COMP_2,Doctors communicate well,Same as National
+H0070,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0071,H_COMP_1,Nurses communicate well,Same as National
+H0071,H_COMP_2,Doctors communicate well,Same as National
+H0071,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0072,H_COMP_1,Nurses communicate well,Same as National
+H0072,H_COMP_2,Doctors communicate well,Same as National
+H0072,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0073,H_COMP_1,Nurses communicate well,Above National
+H0073,H_COMP_2,Doctors communicate well,Below National
+H0073,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0074,H_COMP_1,Nurses communicate well,Same as National
+H0074,H_COMP_2,Doctors communicate well,Above National
+H0074,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0075,H_COMP_1,Nurses communicate well,Same as National
+H0075,H_COMP_2,Doctors communicate well,Below National
+H0075,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0076,H_COMP_1,Nurses communicate well,Above National
+H0076,H_COMP_2,Doctors communicate well,Same as National
+H0076,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0077,H_COMP_1,Nurses communicate well,Same as National
+H0077,H_COMP_2,Doctors communicate well,Above National
+H0077,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0078,H_COMP_1,Nurses communicate well,Below National
+H0078,H_COMP_2,Doctors communicate well,Below National
+H0078,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0079,H_COMP_1,Nurses communicate well,Same as National
+H0079,H_COMP_2,Doctors communicate well,Above National
+H0079,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0080,H_COMP_1,Nurses communicate well,Same as National
+H0080,H_COMP_2,Doctors communicate well,Same as National
+H0080,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0081,H_COMP_1,Nurses communicate well,Above National
+H0081,H_COMP_2,Doctors communicate well,Above National
+H0081,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0082,H_COMP_1,Nurses communicate well,Above National
+H0082,H_COMP_2,Doctors communicate well,Above National
+H0082,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0083,H_COMP_1,Nurses communicate well,Same as National
+H0083,H_COMP_2,Doctors communicate well,Same as National
+H0083,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0084,H_COMP_1,Nurses communicate well,Below National
+H0084,H_COMP_2,Doctors communicate well,Same as National
+H0084,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0085,H_COMP_1,Nurses communicate well,Same as National
+H0085,H_COMP_2,Doctors communicate well,Same as National
+H0085,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0086,H_COMP_1,Nurses communicate well,Same as National
+H0086,H_COMP_2,Doctors communicate well,Same as National
+H0086,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0087,H_COMP_1,Nurses communicate well,Above National
+H0087,H_COMP_2,Doctors communicate well,Same as National
+H0087,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0088,H_COMP_1,Nurses communicate well,Same as National
+H0088,H_COMP_2,Doctors communicate well,Same as National
+H0088,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0089,H_COMP_1,Nurses communicate well,Below National
+H0089,H_COMP_2,Doctors communicate well,Below National
+H0089,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0090,H_COMP_1,Nurses communicate well,Same as National
+H0090,H_COMP_2,Doctors communicate well,Same as National
+H0090,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0091,H_COMP_1,Nurses communicate well,Above National
+H0091,H_COMP_2,Doctors communicate well,Same as National
+H0091,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0092,H_COMP_1,Nurses communicate well,Same as National
+H0092,H_COMP_2,Doctors communicate well,Below National
+H0092,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0093,H_COMP_1,Nurses communicate well,Above National
+H0093,H_COMP_2,Doctors communicate well,Below National
+H0093,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0094,H_COMP_1,Nurses communicate well,Same as National
+H0094,H_COMP_2,Doctors communicate well,Same as National
+H0094,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0095,H_COMP_1,Nurses communicate well,Above National
+H0095,H_COMP_2,Doctors communicate well,Above National
+H0095,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0096,H_COMP_1,Nurses communicate well,Same as National
+H0096,H_COMP_2,Doctors communicate well,Same as National
+H0096,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0097,H_COMP_1,Nurses communicate well,Same as National
+H0097,H_COMP_2,Doctors communicate well,Below National
+H0097,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0098,H_COMP_1,Nurses communicate well,Same as National
+H0098,H_COMP_2,Doctors communicate well,Same as National
+H0098,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0099,H_COMP_1,Nurses communicate well,Same as National
+H0099,H_COMP_2,Doctors communicate well,Same as National
+H0099,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0100,H_COMP_1,Nurses communicate well,Below National
+H0100,H_COMP_2,Doctors communicate well,Same as National
+H0100,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0101,H_COMP_1,Nurses communicate well,Same as National
+H0101,H_COMP_2,Doctors communicate well,Same as National
+H0101,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0102,H_COMP_1,Nurses communicate well,Above National
+H0102,H_COMP_2,Doctors communicate well,Same as National
+H0102,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0103,H_COMP_1,Nurses communicate well,Same as National
+H0103,H_COMP_2,Doctors communicate well,Below National
+H0103,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0104,H_COMP_1,Nurses communicate well,Same as National
+H0104,H_COMP_2,Doctors communicate well,Above National
+H0104,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0105,H_COMP_1,Nurses communicate well,Same as National
+H0105,H_COMP_2,Doctors communicate well,Same as National
+H0105,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0106,H_COMP_1,Nurses communicate well,Same as National
+H0106,H_COMP_2,Doctors communicate well,Below National
+H0106,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0107,H_COMP_1,Nurses communicate well,Same as National
+H0107,H_COMP_2,Doctors communicate well,Below National
+H0107,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0108,H_COMP_1,Nurses communicate well,Above National
+H0108,H_COMP_2,Doctors communicate well,Same as National
+H0108,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0109,H_COMP_1,Nurses communicate well,Same as National
+H0109,H_COMP_2,Doctors communicate well,Above National
+H0109,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0110,H_COMP_1,Nurses communicate well,Same as National
+H0110,H_COMP_2,Doctors communicate well,Above National
+H0110,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0111,H_COMP_1,Nurses communicate well,Below National
+H0111,H_COMP_2,Doctors communicate well,Same as National
+H0111,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0112,H_COMP_1,Nurses communicate well,Same as National
+H0112,H_COMP_2,Doctors communicate well,Above National
+H0112,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0113,H_COMP_1,Nurses communicate well,Same as National
+H0113,H_COMP_2,Doctors communicate well,Same as National
+H0113,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0114,H_COMP_1,Nurses communicate well,Same as National
+H0114,H_COMP_2,Doctors communicate well,Same as National
+H0114,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0115,H_COMP_1,Nurses communicate well,Below National
+H0115,H_COMP_2,Doctors communicate well,Below National
+H0115,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0116,H_COMP_1,Nurses communicate well,Below National
+H0116,H_COMP_2,Doctors communicate well,Above National
+H0116,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0117,H_COMP_1,Nurses communicate well,Same as National
+H0117,H_COMP_2,Doctors communicate well,Same as National
+H0117,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0118,H_COMP_1,Nurses communicate well,Same as National
+H0118,H_COMP_2,Doctors communicate well,Above National
+H0118,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0119,H_COMP_1,Nurses communicate well,Above National
+H0119,H_COMP_2,Doctors communicate well,Same as National
+H0119,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0120,H_COMP_1,Nurses communicate well,Above National
+H0120,H_COMP_2,Doctors communicate well,Same as National
+H0120,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0121,H_COMP_1,Nurses communicate well,Below National
+H0121,H_COMP_2,Doctors communicate well,Same as National
+H0121,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0122,H_COMP_1,Nurses communicate well,Below National
+H0122,H_COMP_2,Doctors communicate well,Same as National
+H0122,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0123,H_COMP_1,Nurses communicate well,Same as National
+H0123,H_COMP_2,Doctors communicate well,Below National
+H0123,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0124,H_COMP_1,Nurses communicate well,Same as National
+H0124,H_COMP_2,Doctors communicate well,Above National
+H0124,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0125,H_COMP_1,Nurses communicate well,Same as National
+H0125,H_COMP_2,Doctors communicate well,Same as National
+H0125,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0126,H_COMP_1,Nurses communicate well,Below National
+H0126,H_COMP_2,Doctors communicate well,Below National
+H0126,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0127,H_COMP_1,Nurses communicate well,Below National
+H0127,H_COMP_2,Doctors communicate well,Above National
+H0127,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0128,H_COMP_1,Nurses communicate well,Same as National
+H0128,H_COMP_2,Doctors communicate well,Below National
+H0128,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0129,H_COMP_1,Nurses communicate well,Same as National
+H0129,H_COMP_2,Doctors communicate well,Below National
+H0129,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0130,H_COMP_1,Nurses communicate well,Below National
+H0130,H_COMP_2,Doctors communicate well,Below National
+H0130,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0131,H_COMP_1,Nurses communicate well,Same as National
+H0131,H_COMP_2,Doctors communicate well,Above National
+H0131,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0132,H_COMP_1,Nurses communicate well,Same as National
+H0132,H_COMP_2,Doctors communicate well,Same as National
+H0132,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0133,H_COMP_1,Nurses communicate well,Same as National
+H0133,H_COMP_2,Doctors communicate well,Same as National
+H0133,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0134,H_COMP_1,Nurses communicate well,Below National
+H0134,H_COMP_2,Doctors communicate well,Above National
+H0134,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0135,H_COMP_1,Nurses communicate well,Above National
+H0135,H_COMP_2,Doctors communicate well,Below National
+H0135,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0136,H_COMP_1,Nurses communicate well,Above National
+H0136,H_COMP_2,Doctors communicate well,Same as National
+H0136,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0137,H_COMP_1,Nurses communicate well,Same as National
+H0137,H_COMP_2,Doctors communicate well,Above National
+H0137,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0138,H_COMP_1,Nurses communicate well,Below National
+H0138,H_COMP_2,Doctors communicate well,Same as National
+H0138,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0139,H_COMP_1,Nurses communicate well,Same as National
+H0139,H_COMP_2,Doctors communicate well,Above National
+H0139,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0140,H_COMP_1,Nurses communicate well,Below National
+H0140,H_COMP_2,Doctors communicate well,Same as National
+H0140,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0141,H_COMP_1,Nurses communicate well,Below National
+H0141,H_COMP_2,Doctors communicate well,Same as National
+H0141,H_HSP_RATING,Rate the hospital 0–10,Below National
+H0142,H_COMP_1,Nurses communicate well,Same as National
+H0142,H_COMP_2,Doctors communicate well,Below National
+H0142,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0143,H_COMP_1,Nurses communicate well,Same as National
+H0143,H_COMP_2,Doctors communicate well,Below National
+H0143,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0144,H_COMP_1,Nurses communicate well,Same as National
+H0144,H_COMP_2,Doctors communicate well,Above National
+H0144,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0145,H_COMP_1,Nurses communicate well,Same as National
+H0145,H_COMP_2,Doctors communicate well,Above National
+H0145,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0146,H_COMP_1,Nurses communicate well,Same as National
+H0146,H_COMP_2,Doctors communicate well,Below National
+H0146,H_HSP_RATING,Rate the hospital 0–10,Same as National
+H0147,H_COMP_1,Nurses communicate well,Above National
+H0147,H_COMP_2,Doctors communicate well,Same as National
+H0147,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0148,H_COMP_1,Nurses communicate well,Same as National
+H0148,H_COMP_2,Doctors communicate well,Above National
+H0148,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0149,H_COMP_1,Nurses communicate well,Above National
+H0149,H_COMP_2,Doctors communicate well,Same as National
+H0149,H_HSP_RATING,Rate the hospital 0–10,Above National
+H0150,H_COMP_1,Nurses communicate well,Same as National
+H0150,H_COMP_2,Doctors communicate well,Same as National
+H0150,H_HSP_RATING,Rate the hospital 0–10,Same as National

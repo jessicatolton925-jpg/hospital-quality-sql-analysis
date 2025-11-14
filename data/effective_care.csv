@@ -1,0 +1,451 @@
+hospital_id,measure_id,measure_name,score,compared_to_national
+H0001,ED_1,Median time from ED arrival to ED departure for discharged patients,91,Same
+H0001,OP_18b,Median time from ED arrival to ED departure for admitted patients,121.3,Same
+H0001,OP_20,Door to diagnostic eval by qualified provider,101.3,Same
+H0002,ED_1,Median time from ED arrival to ED departure for discharged patients,87.9,Better
+H0002,OP_18b,Median time from ED arrival to ED departure for admitted patients,106.3,Worse
+H0002,OP_20,Door to diagnostic eval by qualified provider,121,Better
+H0003,ED_1,Median time from ED arrival to ED departure for discharged patients,109.8,Same
+H0003,OP_18b,Median time from ED arrival to ED departure for admitted patients,77.5,Same
+H0003,OP_20,Door to diagnostic eval by qualified provider,94.2,Same
+H0004,ED_1,Median time from ED arrival to ED departure for discharged patients,103.8,Same
+H0004,OP_18b,Median time from ED arrival to ED departure for admitted patients,109.1,Worse
+H0004,OP_20,Door to diagnostic eval by qualified provider,97.3,Same
+H0005,ED_1,Median time from ED arrival to ED departure for discharged patients,95.2,Worse
+H0005,OP_18b,Median time from ED arrival to ED departure for admitted patients,126.9,Same
+H0005,OP_20,Door to diagnostic eval by qualified provider,110,Same
+H0006,ED_1,Median time from ED arrival to ED departure for discharged patients,106.3,Worse
+H0006,OP_18b,Median time from ED arrival to ED departure for admitted patients,91.6,Same
+H0006,OP_20,Door to diagnostic eval by qualified provider,83.5,Worse
+H0007,ED_1,Median time from ED arrival to ED departure for discharged patients,106.6,Same
+H0007,OP_18b,Median time from ED arrival to ED departure for admitted patients,111.7,Same
+H0007,OP_20,Door to diagnostic eval by qualified provider,99.9,Same
+H0008,ED_1,Median time from ED arrival to ED departure for discharged patients,110,Better
+H0008,OP_18b,Median time from ED arrival to ED departure for admitted patients,110.4,Same
+H0008,OP_20,Door to diagnostic eval by qualified provider,112.7,Better
+H0009,ED_1,Median time from ED arrival to ED departure for discharged patients,77.2,Same
+H0009,OP_18b,Median time from ED arrival to ED departure for admitted patients,94.6,Worse
+H0009,OP_20,Door to diagnostic eval by qualified provider,107.5,Better
+H0010,ED_1,Median time from ED arrival to ED departure for discharged patients,100.7,Same
+H0010,OP_18b,Median time from ED arrival to ED departure for admitted patients,110.5,Better
+H0010,OP_20,Door to diagnostic eval by qualified provider,106.3,Worse
+H0011,ED_1,Median time from ED arrival to ED departure for discharged patients,67.7,Better
+H0011,OP_18b,Median time from ED arrival to ED departure for admitted patients,116.5,Worse
+H0011,OP_20,Door to diagnostic eval by qualified provider,92.8,Same
+H0012,ED_1,Median time from ED arrival to ED departure for discharged patients,87.1,Worse
+H0012,OP_18b,Median time from ED arrival to ED departure for admitted patients,115.9,Same
+H0012,OP_20,Door to diagnostic eval by qualified provider,109.3,Same
+H0013,ED_1,Median time from ED arrival to ED departure for discharged patients,118.2,Worse
+H0013,OP_18b,Median time from ED arrival to ED departure for admitted patients,103.9,Better
+H0013,OP_20,Door to diagnostic eval by qualified provider,94.5,Same
+H0014,ED_1,Median time from ED arrival to ED departure for discharged patients,102.2,Same
+H0014,OP_18b,Median time from ED arrival to ED departure for admitted patients,84.6,Same
+H0014,OP_20,Door to diagnostic eval by qualified provider,79.7,Same
+H0015,ED_1,Median time from ED arrival to ED departure for discharged patients,90.6,Better
+H0015,OP_18b,Median time from ED arrival to ED departure for admitted patients,123,Same
+H0015,OP_20,Door to diagnostic eval by qualified provider,92,Same
+H0016,ED_1,Median time from ED arrival to ED departure for discharged patients,74.4,Same
+H0016,OP_18b,Median time from ED arrival to ED departure for admitted patients,97.7,Worse
+H0016,OP_20,Door to diagnostic eval by qualified provider,91.8,Same
+H0017,ED_1,Median time from ED arrival to ED departure for discharged patients,116.8,Better
+H0017,OP_18b,Median time from ED arrival to ED departure for admitted patients,121.7,Same
+H0017,OP_20,Door to diagnostic eval by qualified provider,93.8,Same
+H0018,ED_1,Median time from ED arrival to ED departure for discharged patients,103.9,Same
+H0018,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.2,Better
+H0018,OP_20,Door to diagnostic eval by qualified provider,99.3,Same
+H0019,ED_1,Median time from ED arrival to ED departure for discharged patients,96.5,Same
+H0019,OP_18b,Median time from ED arrival to ED departure for admitted patients,86.1,Same
+H0019,OP_20,Door to diagnostic eval by qualified provider,72.3,Same
+H0020,ED_1,Median time from ED arrival to ED departure for discharged patients,86.1,Same
+H0020,OP_18b,Median time from ED arrival to ED departure for admitted patients,98.7,Same
+H0020,OP_20,Door to diagnostic eval by qualified provider,78.3,Same
+H0021,ED_1,Median time from ED arrival to ED departure for discharged patients,103.1,Same
+H0021,OP_18b,Median time from ED arrival to ED departure for admitted patients,101,Better
+H0021,OP_20,Door to diagnostic eval by qualified provider,91.8,Same
+H0022,ED_1,Median time from ED arrival to ED departure for discharged patients,95.9,Same
+H0022,OP_18b,Median time from ED arrival to ED departure for admitted patients,80.5,Better
+H0022,OP_20,Door to diagnostic eval by qualified provider,112.4,Worse
+H0023,ED_1,Median time from ED arrival to ED departure for discharged patients,112.2,Same
+H0023,OP_18b,Median time from ED arrival to ED departure for admitted patients,82.8,Same
+H0023,OP_20,Door to diagnostic eval by qualified provider,83.2,Same
+H0024,ED_1,Median time from ED arrival to ED departure for discharged patients,86.2,Worse
+H0024,OP_18b,Median time from ED arrival to ED departure for admitted patients,108.3,Same
+H0024,OP_20,Door to diagnostic eval by qualified provider,105.1,Same
+H0025,ED_1,Median time from ED arrival to ED departure for discharged patients,115.7,Same
+H0025,OP_18b,Median time from ED arrival to ED departure for admitted patients,117.5,Better
+H0025,OP_20,Door to diagnostic eval by qualified provider,77,Same
+H0026,ED_1,Median time from ED arrival to ED departure for discharged patients,107.7,Worse
+H0026,OP_18b,Median time from ED arrival to ED departure for admitted patients,116.9,Better
+H0026,OP_20,Door to diagnostic eval by qualified provider,95,Same
+H0027,ED_1,Median time from ED arrival to ED departure for discharged patients,99.6,Better
+H0027,OP_18b,Median time from ED arrival to ED departure for admitted patients,97.4,Same
+H0027,OP_20,Door to diagnostic eval by qualified provider,98,Same
+H0028,ED_1,Median time from ED arrival to ED departure for discharged patients,112.4,Same
+H0028,OP_18b,Median time from ED arrival to ED departure for admitted patients,126.2,Same
+H0028,OP_20,Door to diagnostic eval by qualified provider,120.7,Same
+H0029,ED_1,Median time from ED arrival to ED departure for discharged patients,92.5,Better
+H0029,OP_18b,Median time from ED arrival to ED departure for admitted patients,104,Worse
+H0029,OP_20,Door to diagnostic eval by qualified provider,88.2,Same
+H0030,ED_1,Median time from ED arrival to ED departure for discharged patients,89.6,Same
+H0030,OP_18b,Median time from ED arrival to ED departure for admitted patients,99,Same
+H0030,OP_20,Door to diagnostic eval by qualified provider,89.3,Same
+H0031,ED_1,Median time from ED arrival to ED departure for discharged patients,91.3,Worse
+H0031,OP_18b,Median time from ED arrival to ED departure for admitted patients,103.6,Worse
+H0031,OP_20,Door to diagnostic eval by qualified provider,107.5,Worse
+H0032,ED_1,Median time from ED arrival to ED departure for discharged patients,107.1,Same
+H0032,OP_18b,Median time from ED arrival to ED departure for admitted patients,107.2,Same
+H0032,OP_20,Door to diagnostic eval by qualified provider,81.4,Same
+H0033,ED_1,Median time from ED arrival to ED departure for discharged patients,88.6,Same
+H0033,OP_18b,Median time from ED arrival to ED departure for admitted patients,100.6,Worse
+H0033,OP_20,Door to diagnostic eval by qualified provider,116.1,Same
+H0034,ED_1,Median time from ED arrival to ED departure for discharged patients,135.5,Same
+H0034,OP_18b,Median time from ED arrival to ED departure for admitted patients,104.6,Same
+H0034,OP_20,Door to diagnostic eval by qualified provider,110.8,Same
+H0035,ED_1,Median time from ED arrival to ED departure for discharged patients,79.9,Same
+H0035,OP_18b,Median time from ED arrival to ED departure for admitted patients,110.4,Same
+H0035,OP_20,Door to diagnostic eval by qualified provider,129.9,Worse
+H0036,ED_1,Median time from ED arrival to ED departure for discharged patients,88.5,Better
+H0036,OP_18b,Median time from ED arrival to ED departure for admitted patients,91.8,Same
+H0036,OP_20,Door to diagnostic eval by qualified provider,112.9,Better
+H0037,ED_1,Median time from ED arrival to ED departure for discharged patients,100.4,Better
+H0037,OP_18b,Median time from ED arrival to ED departure for admitted patients,71.2,Same
+H0037,OP_20,Door to diagnostic eval by qualified provider,92.6,Same
+H0038,ED_1,Median time from ED arrival to ED departure for discharged patients,121.7,Same
+H0038,OP_18b,Median time from ED arrival to ED departure for admitted patients,95.8,Better
+H0038,OP_20,Door to diagnostic eval by qualified provider,95.8,Better
+H0039,ED_1,Median time from ED arrival to ED departure for discharged patients,111.9,Worse
+H0039,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.1,Same
+H0039,OP_20,Door to diagnostic eval by qualified provider,95,Same
+H0040,ED_1,Median time from ED arrival to ED departure for discharged patients,90.8,Same
+H0040,OP_18b,Median time from ED arrival to ED departure for admitted patients,144.2,Same
+H0040,OP_20,Door to diagnostic eval by qualified provider,118.7,Same
+H0041,ED_1,Median time from ED arrival to ED departure for discharged patients,107.2,Same
+H0041,OP_18b,Median time from ED arrival to ED departure for admitted patients,108.2,Worse
+H0041,OP_20,Door to diagnostic eval by qualified provider,98.1,Same
+H0042,ED_1,Median time from ED arrival to ED departure for discharged patients,104.9,Same
+H0042,OP_18b,Median time from ED arrival to ED departure for admitted patients,96.6,Same
+H0042,OP_20,Door to diagnostic eval by qualified provider,87.2,Same
+H0043,ED_1,Median time from ED arrival to ED departure for discharged patients,105.5,Same
+H0043,OP_18b,Median time from ED arrival to ED departure for admitted patients,95.3,Worse
+H0043,OP_20,Door to diagnostic eval by qualified provider,106.3,Same
+H0044,ED_1,Median time from ED arrival to ED departure for discharged patients,109.1,Same
+H0044,OP_18b,Median time from ED arrival to ED departure for admitted patients,107.1,Better
+H0044,OP_20,Door to diagnostic eval by qualified provider,86.1,Same
+H0045,ED_1,Median time from ED arrival to ED departure for discharged patients,93.7,Better
+H0045,OP_18b,Median time from ED arrival to ED departure for admitted patients,95.6,Better
+H0045,OP_20,Door to diagnostic eval by qualified provider,114.6,Same
+H0046,ED_1,Median time from ED arrival to ED departure for discharged patients,113.8,Better
+H0046,OP_18b,Median time from ED arrival to ED departure for admitted patients,89.4,Better
+H0046,OP_20,Door to diagnostic eval by qualified provider,81.1,Same
+H0047,ED_1,Median time from ED arrival to ED departure for discharged patients,136.4,Same
+H0047,OP_18b,Median time from ED arrival to ED departure for admitted patients,106.5,Better
+H0047,OP_20,Door to diagnostic eval by qualified provider,79.3,Same
+H0048,ED_1,Median time from ED arrival to ED departure for discharged patients,91.5,Worse
+H0048,OP_18b,Median time from ED arrival to ED departure for admitted patients,115.3,Same
+H0048,OP_20,Door to diagnostic eval by qualified provider,131.3,Same
+H0049,ED_1,Median time from ED arrival to ED departure for discharged patients,128.1,Same
+H0049,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.8,Better
+H0049,OP_20,Door to diagnostic eval by qualified provider,60.5,Worse
+H0050,ED_1,Median time from ED arrival to ED departure for discharged patients,100.1,Same
+H0050,OP_18b,Median time from ED arrival to ED departure for admitted patients,84.8,Same
+H0050,OP_20,Door to diagnostic eval by qualified provider,101.3,Better
+H0051,ED_1,Median time from ED arrival to ED departure for discharged patients,86.6,Same
+H0051,OP_18b,Median time from ED arrival to ED departure for admitted patients,93.9,Same
+H0051,OP_20,Door to diagnostic eval by qualified provider,112.9,Same
+H0052,ED_1,Median time from ED arrival to ED departure for discharged patients,96.5,Same
+H0052,OP_18b,Median time from ED arrival to ED departure for admitted patients,95.5,Same
+H0052,OP_20,Door to diagnostic eval by qualified provider,99.2,Better
+H0053,ED_1,Median time from ED arrival to ED departure for discharged patients,139.3,Same
+H0053,OP_18b,Median time from ED arrival to ED departure for admitted patients,83.3,Same
+H0053,OP_20,Door to diagnostic eval by qualified provider,104.2,Worse
+H0054,ED_1,Median time from ED arrival to ED departure for discharged patients,126.4,Worse
+H0054,OP_18b,Median time from ED arrival to ED departure for admitted patients,99.2,Same
+H0054,OP_20,Door to diagnostic eval by qualified provider,118.4,Same
+H0055,ED_1,Median time from ED arrival to ED departure for discharged patients,80.2,Worse
+H0055,OP_18b,Median time from ED arrival to ED departure for admitted patients,97,Worse
+H0055,OP_20,Door to diagnostic eval by qualified provider,88,Same
+H0056,ED_1,Median time from ED arrival to ED departure for discharged patients,99,Worse
+H0056,OP_18b,Median time from ED arrival to ED departure for admitted patients,99.4,Better
+H0056,OP_20,Door to diagnostic eval by qualified provider,100.9,Worse
+H0057,ED_1,Median time from ED arrival to ED departure for discharged patients,112.7,Worse
+H0057,OP_18b,Median time from ED arrival to ED departure for admitted patients,66.3,Better
+H0057,OP_20,Door to diagnostic eval by qualified provider,90.9,Same
+H0058,ED_1,Median time from ED arrival to ED departure for discharged patients,103.2,Worse
+H0058,OP_18b,Median time from ED arrival to ED departure for admitted patients,71.9,Same
+H0058,OP_20,Door to diagnostic eval by qualified provider,109.3,Same
+H0059,ED_1,Median time from ED arrival to ED departure for discharged patients,90.6,Same
+H0059,OP_18b,Median time from ED arrival to ED departure for admitted patients,97.2,Same
+H0059,OP_20,Door to diagnostic eval by qualified provider,113.5,Same
+H0060,ED_1,Median time from ED arrival to ED departure for discharged patients,119.1,Better
+H0060,OP_18b,Median time from ED arrival to ED departure for admitted patients,109.8,Same
+H0060,OP_20,Door to diagnostic eval by qualified provider,82.9,Better
+H0061,ED_1,Median time from ED arrival to ED departure for discharged patients,109,Same
+H0061,OP_18b,Median time from ED arrival to ED departure for admitted patients,110,Better
+H0061,OP_20,Door to diagnostic eval by qualified provider,106.9,Same
+H0062,ED_1,Median time from ED arrival to ED departure for discharged patients,121.8,Same
+H0062,OP_18b,Median time from ED arrival to ED departure for admitted patients,101.3,Better
+H0062,OP_20,Door to diagnostic eval by qualified provider,121.2,Same
+H0063,ED_1,Median time from ED arrival to ED departure for discharged patients,121.1,Better
+H0063,OP_18b,Median time from ED arrival to ED departure for admitted patients,110.5,Better
+H0063,OP_20,Door to diagnostic eval by qualified provider,104.4,Worse
+H0064,ED_1,Median time from ED arrival to ED departure for discharged patients,106.9,Same
+H0064,OP_18b,Median time from ED arrival to ED departure for admitted patients,125.5,Worse
+H0064,OP_20,Door to diagnostic eval by qualified provider,116.1,Same
+H0065,ED_1,Median time from ED arrival to ED departure for discharged patients,84.5,Same
+H0065,OP_18b,Median time from ED arrival to ED departure for admitted patients,106,Same
+H0065,OP_20,Door to diagnostic eval by qualified provider,87.3,Same
+H0066,ED_1,Median time from ED arrival to ED departure for discharged patients,90.2,Same
+H0066,OP_18b,Median time from ED arrival to ED departure for admitted patients,94.4,Worse
+H0066,OP_20,Door to diagnostic eval by qualified provider,78.9,Same
+H0067,ED_1,Median time from ED arrival to ED departure for discharged patients,86.4,Worse
+H0067,OP_18b,Median time from ED arrival to ED departure for admitted patients,122.8,Same
+H0067,OP_20,Door to diagnostic eval by qualified provider,90.1,Same
+H0068,ED_1,Median time from ED arrival to ED departure for discharged patients,112.8,Same
+H0068,OP_18b,Median time from ED arrival to ED departure for admitted patients,102.6,Same
+H0068,OP_20,Door to diagnostic eval by qualified provider,108.3,Same
+H0069,ED_1,Median time from ED arrival to ED departure for discharged patients,109,Same
+H0069,OP_18b,Median time from ED arrival to ED departure for admitted patients,85.8,Same
+H0069,OP_20,Door to diagnostic eval by qualified provider,112.7,Worse
+H0070,ED_1,Median time from ED arrival to ED departure for discharged patients,81.5,Same
+H0070,OP_18b,Median time from ED arrival to ED departure for admitted patients,89.5,Better
+H0070,OP_20,Door to diagnostic eval by qualified provider,108.7,Same
+H0071,ED_1,Median time from ED arrival to ED departure for discharged patients,84.9,Better
+H0071,OP_18b,Median time from ED arrival to ED departure for admitted patients,70.6,Same
+H0071,OP_20,Door to diagnostic eval by qualified provider,105.2,Better
+H0072,ED_1,Median time from ED arrival to ED departure for discharged patients,76.5,Same
+H0072,OP_18b,Median time from ED arrival to ED departure for admitted patients,110.2,Worse
+H0072,OP_20,Door to diagnostic eval by qualified provider,95.5,Same
+H0073,ED_1,Median time from ED arrival to ED departure for discharged patients,105,Same
+H0073,OP_18b,Median time from ED arrival to ED departure for admitted patients,104.7,Same
+H0073,OP_20,Door to diagnostic eval by qualified provider,111.4,Worse
+H0074,ED_1,Median time from ED arrival to ED departure for discharged patients,109.2,Worse
+H0074,OP_18b,Median time from ED arrival to ED departure for admitted patients,84.7,Better
+H0074,OP_20,Door to diagnostic eval by qualified provider,96.3,Same
+H0075,ED_1,Median time from ED arrival to ED departure for discharged patients,105,Same
+H0075,OP_18b,Median time from ED arrival to ED departure for admitted patients,121.5,Same
+H0075,OP_20,Door to diagnostic eval by qualified provider,109.3,Same
+H0076,ED_1,Median time from ED arrival to ED departure for discharged patients,119.9,Better
+H0076,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.8,Same
+H0076,OP_20,Door to diagnostic eval by qualified provider,116.4,Same
+H0077,ED_1,Median time from ED arrival to ED departure for discharged patients,103.7,Same
+H0077,OP_18b,Median time from ED arrival to ED departure for admitted patients,115.7,Worse
+H0077,OP_20,Door to diagnostic eval by qualified provider,94.7,Same
+H0078,ED_1,Median time from ED arrival to ED departure for discharged patients,123.5,Same
+H0078,OP_18b,Median time from ED arrival to ED departure for admitted patients,107.5,Worse
+H0078,OP_20,Door to diagnostic eval by qualified provider,79,Worse
+H0079,ED_1,Median time from ED arrival to ED departure for discharged patients,105.5,Same
+H0079,OP_18b,Median time from ED arrival to ED departure for admitted patients,68.5,Worse
+H0079,OP_20,Door to diagnostic eval by qualified provider,109.4,Same
+H0080,ED_1,Median time from ED arrival to ED departure for discharged patients,113.3,Better
+H0080,OP_18b,Median time from ED arrival to ED departure for admitted patients,129.3,Same
+H0080,OP_20,Door to diagnostic eval by qualified provider,92.4,Same
+H0081,ED_1,Median time from ED arrival to ED departure for discharged patients,129.4,Same
+H0081,OP_18b,Median time from ED arrival to ED departure for admitted patients,100.1,Same
+H0081,OP_20,Door to diagnostic eval by qualified provider,88.9,Same
+H0082,ED_1,Median time from ED arrival to ED departure for discharged patients,92.7,Same
+H0082,OP_18b,Median time from ED arrival to ED departure for admitted patients,108.4,Same
+H0082,OP_20,Door to diagnostic eval by qualified provider,86.8,Same
+H0083,ED_1,Median time from ED arrival to ED departure for discharged patients,95,Better
+H0083,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.1,Same
+H0083,OP_20,Door to diagnostic eval by qualified provider,123.3,Worse
+H0084,ED_1,Median time from ED arrival to ED departure for discharged patients,112.8,Worse
+H0084,OP_18b,Median time from ED arrival to ED departure for admitted patients,100.7,Same
+H0084,OP_20,Door to diagnostic eval by qualified provider,108.4,Same
+H0085,ED_1,Median time from ED arrival to ED departure for discharged patients,103.6,Same
+H0085,OP_18b,Median time from ED arrival to ED departure for admitted patients,82.7,Worse
+H0085,OP_20,Door to diagnostic eval by qualified provider,126.3,Same
+H0086,ED_1,Median time from ED arrival to ED departure for discharged patients,123.6,Better
+H0086,OP_18b,Median time from ED arrival to ED departure for admitted patients,98.9,Better
+H0086,OP_20,Door to diagnostic eval by qualified provider,93.2,Same
+H0087,ED_1,Median time from ED arrival to ED departure for discharged patients,83,Worse
+H0087,OP_18b,Median time from ED arrival to ED departure for admitted patients,109.3,Worse
+H0087,OP_20,Door to diagnostic eval by qualified provider,109.4,Same
+H0088,ED_1,Median time from ED arrival to ED departure for discharged patients,87.9,Worse
+H0088,OP_18b,Median time from ED arrival to ED departure for admitted patients,103.8,Worse
+H0088,OP_20,Door to diagnostic eval by qualified provider,112.3,Same
+H0089,ED_1,Median time from ED arrival to ED departure for discharged patients,92.3,Worse
+H0089,OP_18b,Median time from ED arrival to ED departure for admitted patients,97.1,Worse
+H0089,OP_20,Door to diagnostic eval by qualified provider,96.9,Better
+H0090,ED_1,Median time from ED arrival to ED departure for discharged patients,88.8,Same
+H0090,OP_18b,Median time from ED arrival to ED departure for admitted patients,97.3,Same
+H0090,OP_20,Door to diagnostic eval by qualified provider,76.8,Better
+H0091,ED_1,Median time from ED arrival to ED departure for discharged patients,96.2,Worse
+H0091,OP_18b,Median time from ED arrival to ED departure for admitted patients,96.4,Same
+H0091,OP_20,Door to diagnostic eval by qualified provider,99.1,Same
+H0092,ED_1,Median time from ED arrival to ED departure for discharged patients,107.2,Same
+H0092,OP_18b,Median time from ED arrival to ED departure for admitted patients,82,Same
+H0092,OP_20,Door to diagnostic eval by qualified provider,84.4,Better
+H0093,ED_1,Median time from ED arrival to ED departure for discharged patients,88.5,Same
+H0093,OP_18b,Median time from ED arrival to ED departure for admitted patients,80.6,Better
+H0093,OP_20,Door to diagnostic eval by qualified provider,108.9,Better
+H0094,ED_1,Median time from ED arrival to ED departure for discharged patients,91.6,Same
+H0094,OP_18b,Median time from ED arrival to ED departure for admitted patients,99.5,Same
+H0094,OP_20,Door to diagnostic eval by qualified provider,87.3,Same
+H0095,ED_1,Median time from ED arrival to ED departure for discharged patients,94.6,Same
+H0095,OP_18b,Median time from ED arrival to ED departure for admitted patients,104.5,Same
+H0095,OP_20,Door to diagnostic eval by qualified provider,105.2,Same
+H0096,ED_1,Median time from ED arrival to ED departure for discharged patients,84.9,Same
+H0096,OP_18b,Median time from ED arrival to ED departure for admitted patients,98.8,Same
+H0096,OP_20,Door to diagnostic eval by qualified provider,87.5,Worse
+H0097,ED_1,Median time from ED arrival to ED departure for discharged patients,98.2,Same
+H0097,OP_18b,Median time from ED arrival to ED departure for admitted patients,90.5,Same
+H0097,OP_20,Door to diagnostic eval by qualified provider,127.5,Same
+H0098,ED_1,Median time from ED arrival to ED departure for discharged patients,112.2,Worse
+H0098,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.9,Worse
+H0098,OP_20,Door to diagnostic eval by qualified provider,71.1,Worse
+H0099,ED_1,Median time from ED arrival to ED departure for discharged patients,95.8,Better
+H0099,OP_18b,Median time from ED arrival to ED departure for admitted patients,112.7,Same
+H0099,OP_20,Door to diagnostic eval by qualified provider,99.2,Same
+H0100,ED_1,Median time from ED arrival to ED departure for discharged patients,125.6,Worse
+H0100,OP_18b,Median time from ED arrival to ED departure for admitted patients,114.3,Same
+H0100,OP_20,Door to diagnostic eval by qualified provider,94.5,Same
+H0101,ED_1,Median time from ED arrival to ED departure for discharged patients,123.4,Better
+H0101,OP_18b,Median time from ED arrival to ED departure for admitted patients,95.9,Better
+H0101,OP_20,Door to diagnostic eval by qualified provider,128.6,Same
+H0102,ED_1,Median time from ED arrival to ED departure for discharged patients,124.4,Same
+H0102,OP_18b,Median time from ED arrival to ED departure for admitted patients,104.4,Same
+H0102,OP_20,Door to diagnostic eval by qualified provider,77.3,Same
+H0103,ED_1,Median time from ED arrival to ED departure for discharged patients,103.3,Better
+H0103,OP_18b,Median time from ED arrival to ED departure for admitted patients,83.5,Same
+H0103,OP_20,Door to diagnostic eval by qualified provider,90.9,Worse
+H0104,ED_1,Median time from ED arrival to ED departure for discharged patients,91.9,Same
+H0104,OP_18b,Median time from ED arrival to ED departure for admitted patients,83.4,Same
+H0104,OP_20,Door to diagnostic eval by qualified provider,103.3,Same
+H0105,ED_1,Median time from ED arrival to ED departure for discharged patients,89.2,Same
+H0105,OP_18b,Median time from ED arrival to ED departure for admitted patients,96.5,Worse
+H0105,OP_20,Door to diagnostic eval by qualified provider,92,Same
+H0106,ED_1,Median time from ED arrival to ED departure for discharged patients,107.3,Same
+H0106,OP_18b,Median time from ED arrival to ED departure for admitted patients,106.1,Same
+H0106,OP_20,Door to diagnostic eval by qualified provider,95.4,Same
+H0107,ED_1,Median time from ED arrival to ED departure for discharged patients,108,Same
+H0107,OP_18b,Median time from ED arrival to ED departure for admitted patients,118.4,Better
+H0107,OP_20,Door to diagnostic eval by qualified provider,68.7,Better
+H0108,ED_1,Median time from ED arrival to ED departure for discharged patients,91.2,Same
+H0108,OP_18b,Median time from ED arrival to ED departure for admitted patients,86,Same
+H0108,OP_20,Door to diagnostic eval by qualified provider,90,Worse
+H0109,ED_1,Median time from ED arrival to ED departure for discharged patients,66.4,Same
+H0109,OP_18b,Median time from ED arrival to ED departure for admitted patients,68.2,Better
+H0109,OP_20,Door to diagnostic eval by qualified provider,58.8,Same
+H0110,ED_1,Median time from ED arrival to ED departure for discharged patients,92.5,Worse
+H0110,OP_18b,Median time from ED arrival to ED departure for admitted patients,92.1,Worse
+H0110,OP_20,Door to diagnostic eval by qualified provider,120.8,Better
+H0111,ED_1,Median time from ED arrival to ED departure for discharged patients,102.1,Same
+H0111,OP_18b,Median time from ED arrival to ED departure for admitted patients,68,Worse
+H0111,OP_20,Door to diagnostic eval by qualified provider,107.6,Better
+H0112,ED_1,Median time from ED arrival to ED departure for discharged patients,158.9,Better
+H0112,OP_18b,Median time from ED arrival to ED departure for admitted patients,68.7,Worse
+H0112,OP_20,Door to diagnostic eval by qualified provider,125.9,Better
+H0113,ED_1,Median time from ED arrival to ED departure for discharged patients,99.3,Same
+H0113,OP_18b,Median time from ED arrival to ED departure for admitted patients,93.6,Better
+H0113,OP_20,Door to diagnostic eval by qualified provider,91.5,Same
+H0114,ED_1,Median time from ED arrival to ED departure for discharged patients,104.9,Same
+H0114,OP_18b,Median time from ED arrival to ED departure for admitted patients,93.8,Worse
+H0114,OP_20,Door to diagnostic eval by qualified provider,83,Same
+H0115,ED_1,Median time from ED arrival to ED departure for discharged patients,92,Same
+H0115,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.4,Same
+H0115,OP_20,Door to diagnostic eval by qualified provider,110.3,Worse
+H0116,ED_1,Median time from ED arrival to ED departure for discharged patients,127.7,Same
+H0116,OP_18b,Median time from ED arrival to ED departure for admitted patients,101.5,Same
+H0116,OP_20,Door to diagnostic eval by qualified provider,119.4,Same
+H0117,ED_1,Median time from ED arrival to ED departure for discharged patients,97.1,Worse
+H0117,OP_18b,Median time from ED arrival to ED departure for admitted patients,99,Same
+H0117,OP_20,Door to diagnostic eval by qualified provider,98.3,Same
+H0118,ED_1,Median time from ED arrival to ED departure for discharged patients,103.2,Same
+H0118,OP_18b,Median time from ED arrival to ED departure for admitted patients,113,Worse
+H0118,OP_20,Door to diagnostic eval by qualified provider,93.2,Worse
+H0119,ED_1,Median time from ED arrival to ED departure for discharged patients,86.7,Same
+H0119,OP_18b,Median time from ED arrival to ED departure for admitted patients,114.3,Worse
+H0119,OP_20,Door to diagnostic eval by qualified provider,113.1,Worse
+H0120,ED_1,Median time from ED arrival to ED departure for discharged patients,122.1,Same
+H0120,OP_18b,Median time from ED arrival to ED departure for admitted patients,90.9,Same
+H0120,OP_20,Door to diagnostic eval by qualified provider,96.6,Same
+H0121,ED_1,Median time from ED arrival to ED departure for discharged patients,114.9,Worse
+H0121,OP_18b,Median time from ED arrival to ED departure for admitted patients,93,Better
+H0121,OP_20,Door to diagnostic eval by qualified provider,109.6,Better
+H0122,ED_1,Median time from ED arrival to ED departure for discharged patients,97.1,Better
+H0122,OP_18b,Median time from ED arrival to ED departure for admitted patients,104.9,Better
+H0122,OP_20,Door to diagnostic eval by qualified provider,82.8,Worse
+H0123,ED_1,Median time from ED arrival to ED departure for discharged patients,101.3,Same
+H0123,OP_18b,Median time from ED arrival to ED departure for admitted patients,55.1,Same
+H0123,OP_20,Door to diagnostic eval by qualified provider,118.1,Same
+H0124,ED_1,Median time from ED arrival to ED departure for discharged patients,111.7,Same
+H0124,OP_18b,Median time from ED arrival to ED departure for admitted patients,85.8,Same
+H0124,OP_20,Door to diagnostic eval by qualified provider,126.2,Worse
+H0125,ED_1,Median time from ED arrival to ED departure for discharged patients,117,Same
+H0125,OP_18b,Median time from ED arrival to ED departure for admitted patients,83.4,Better
+H0125,OP_20,Door to diagnostic eval by qualified provider,92.1,Same
+H0126,ED_1,Median time from ED arrival to ED departure for discharged patients,84.2,Worse
+H0126,OP_18b,Median time from ED arrival to ED departure for admitted patients,105.3,Same
+H0126,OP_20,Door to diagnostic eval by qualified provider,91.4,Same
+H0127,ED_1,Median time from ED arrival to ED departure for discharged patients,71.3,Same
+H0127,OP_18b,Median time from ED arrival to ED departure for admitted patients,99,Same
+H0127,OP_20,Door to diagnostic eval by qualified provider,113.7,Same
+H0128,ED_1,Median time from ED arrival to ED departure for discharged patients,101.6,Same
+H0128,OP_18b,Median time from ED arrival to ED departure for admitted patients,108.2,Worse
+H0128,OP_20,Door to diagnostic eval by qualified provider,103,Same
+H0129,ED_1,Median time from ED arrival to ED departure for discharged patients,111,Same
+H0129,OP_18b,Median time from ED arrival to ED departure for admitted patients,104.3,Same
+H0129,OP_20,Door to diagnostic eval by qualified provider,98.2,Same
+H0130,ED_1,Median time from ED arrival to ED departure for discharged patients,101.4,Same
+H0130,OP_18b,Median time from ED arrival to ED departure for admitted patients,122.7,Better
+H0130,OP_20,Door to diagnostic eval by qualified provider,109,Same
+H0131,ED_1,Median time from ED arrival to ED departure for discharged patients,85.7,Better
+H0131,OP_18b,Median time from ED arrival to ED departure for admitted patients,101.2,Same
+H0131,OP_20,Door to diagnostic eval by qualified provider,105,Worse
+H0132,ED_1,Median time from ED arrival to ED departure for discharged patients,97.7,Worse
+H0132,OP_18b,Median time from ED arrival to ED departure for admitted patients,71.4,Better
+H0132,OP_20,Door to diagnostic eval by qualified provider,87.1,Better
+H0133,ED_1,Median time from ED arrival to ED departure for discharged patients,93.8,Same
+H0133,OP_18b,Median time from ED arrival to ED departure for admitted patients,128.3,Same
+H0133,OP_20,Door to diagnostic eval by qualified provider,107.3,Same
+H0134,ED_1,Median time from ED arrival to ED departure for discharged patients,76.8,Worse
+H0134,OP_18b,Median time from ED arrival to ED departure for admitted patients,98.6,Same
+H0134,OP_20,Door to diagnostic eval by qualified provider,119.9,Same
+H0135,ED_1,Median time from ED arrival to ED departure for discharged patients,91.2,Same
+H0135,OP_18b,Median time from ED arrival to ED departure for admitted patients,115.6,Better
+H0135,OP_20,Door to diagnostic eval by qualified provider,77.2,Worse
+H0136,ED_1,Median time from ED arrival to ED departure for discharged patients,57.5,Same
+H0136,OP_18b,Median time from ED arrival to ED departure for admitted patients,118,Worse
+H0136,OP_20,Door to diagnostic eval by qualified provider,93.1,Same
+H0137,ED_1,Median time from ED arrival to ED departure for discharged patients,72,Worse
+H0137,OP_18b,Median time from ED arrival to ED departure for admitted patients,94.2,Better
+H0137,OP_20,Door to diagnostic eval by qualified provider,102.9,Same
+H0138,ED_1,Median time from ED arrival to ED departure for discharged patients,106.7,Better
+H0138,OP_18b,Median time from ED arrival to ED departure for admitted patients,62.7,Better
+H0138,OP_20,Door to diagnostic eval by qualified provider,90.1,Same
+H0139,ED_1,Median time from ED arrival to ED departure for discharged patients,100.9,Same
+H0139,OP_18b,Median time from ED arrival to ED departure for admitted patients,106.7,Better
+H0139,OP_20,Door to diagnostic eval by qualified provider,85.6,Same
+H0140,ED_1,Median time from ED arrival to ED departure for discharged patients,96.9,Worse
+H0140,OP_18b,Median time from ED arrival to ED departure for admitted patients,91.2,Same
+H0140,OP_20,Door to diagnostic eval by qualified provider,103.4,Same
+H0141,ED_1,Median time from ED arrival to ED departure for discharged patients,117.4,Worse
+H0141,OP_18b,Median time from ED arrival to ED departure for admitted patients,95,Same
+H0141,OP_20,Door to diagnostic eval by qualified provider,79.4,Better
+H0142,ED_1,Median time from ED arrival to ED departure for discharged patients,89.4,Same
+H0142,OP_18b,Median time from ED arrival to ED departure for admitted patients,126,Same
+H0142,OP_20,Door to diagnostic eval by qualified provider,87.1,Better
+H0143,ED_1,Median time from ED arrival to ED departure for discharged patients,82,Better
+H0143,OP_18b,Median time from ED arrival to ED departure for admitted patients,94.1,Worse
+H0143,OP_20,Door to diagnostic eval by qualified provider,98.6,Better
+H0144,ED_1,Median time from ED arrival to ED departure for discharged patients,92.1,Worse
+H0144,OP_18b,Median time from ED arrival to ED departure for admitted patients,77.3,Same
+H0144,OP_20,Door to diagnostic eval by qualified provider,104.8,Same
+H0145,ED_1,Median time from ED arrival to ED departure for discharged patients,103.4,Same
+H0145,OP_18b,Median time from ED arrival to ED departure for admitted patients,110.4,Same
+H0145,OP_20,Door to diagnostic eval by qualified provider,103,Same
+H0146,ED_1,Median time from ED arrival to ED departure for discharged patients,124.5,Same
+H0146,OP_18b,Median time from ED arrival to ED departure for admitted patients,111.6,Better
+H0146,OP_20,Door to diagnostic eval by qualified provider,108.3,Worse
+H0147,ED_1,Median time from ED arrival to ED departure for discharged patients,118,Same
+H0147,OP_18b,Median time from ED arrival to ED departure for admitted patients,102.1,Same
+H0147,OP_20,Door to diagnostic eval by qualified provider,97.2,Worse
+H0148,ED_1,Median time from ED arrival to ED departure for discharged patients,104.6,Same
+H0148,OP_18b,Median time from ED arrival to ED departure for admitted patients,70.7,Same
+H0148,OP_20,Door to diagnostic eval by qualified provider,102.2,Same
+H0149,ED_1,Median time from ED arrival to ED departure for discharged patients,98.6,Same
+H0149,OP_18b,Median time from ED arrival to ED departure for admitted patients,106.3,Same
+H0149,OP_20,Door to diagnostic eval by qualified provider,115.6,Worse
+H0150,ED_1,Median time from ED arrival to ED departure for discharged patients,108.8,Same
+H0150,OP_18b,Median time from ED arrival to ED departure for admitted patients,89.4,Worse
+H0150,OP_20,Door to diagnostic eval by qualified provider,112.8,Better

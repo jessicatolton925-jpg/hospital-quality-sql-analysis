@@ -1,0 +1,151 @@
+hospital_id,hospital_name,address,city,state,zip,hospital_type,hospital_ownership,emergency_services,overall_rating
+H0001,Regional Medical Center 1,202 Main St,City_0,IL,63351,Acute Care,Proprietary,Yes,4
+H0002,Regional Medical Center 2,535 Main St,City_1,IL,71267,Critical Access,Proprietary,Yes,2
+H0003,Regional Medical Center 3,960 Main St,City_2,MI,58354,Acute Care,Government,Yes,2
+H0004,Regional Medical Center 4,370 Main St,City_3,FL,12557,Childrens,Proprietary,No,5
+H0005,Regional Medical Center 5,206 Main St,City_4,CA,48360,Acute Care,Proprietary,Yes,3
+H0006,Regional Medical Center 6,171 Main St,City_5,MI,92018,Acute Care,Nonprofit,Yes,2
+H0007,Regional Medical Center 7,800 Main St,City_6,OH,12200,Acute Care,Nonprofit,No,1
+H0008,Regional Medical Center 8,120 Main St,City_7,CA,78497,Acute Care,Proprietary,Yes,5
+H0009,Regional Medical Center 9,714 Main St,City_8,PA,56975,Childrens,Proprietary,No,4
+H0010,Regional Medical Center 10,221 Main St,City_9,CA,31357,Critical Access,Government,Yes,5
+H0011,Regional Medical Center 11,566 Main St,City_10,FL,87505,Acute Care,Nonprofit,Yes,4
+H0012,Regional Medical Center 12,314 Main St,City_11,CA,12869,Critical Access,Nonprofit,Yes,5
+H0013,Regional Medical Center 13,430 Main St,City_12,PA,71135,Acute Care,Government,Yes,5
+H0014,Regional Medical Center 14,558 Main St,City_13,FL,60108,Critical Access,Nonprofit,Yes,5
+H0015,Regional Medical Center 15,187 Main St,City_14,NC,48467,Acute Care,Government,Yes,4
+H0016,Regional Medical Center 16,472 Main St,City_15,IL,33328,Acute Care,Government,Yes,4
+H0017,Regional Medical Center 17,199 Main St,City_16,IL,96831,Acute Care,Government,Yes,5
+H0018,Regional Medical Center 18,971 Main St,City_17,GA,13987,Acute Care,Government,Yes,2
+H0019,Regional Medical Center 19,763 Main St,City_18,NC,68871,Acute Care,Nonprofit,Yes,3
+H0020,Regional Medical Center 20,230 Main St,City_19,NC,32399,Acute Care,Nonprofit,Yes,3
+H0021,Regional Medical Center 21,761 Main St,City_0,CA,56214,Acute Care,Proprietary,No,3
+H0022,Regional Medical Center 22,408 Main St,City_1,IL,96416,Acute Care,Nonprofit,Yes,4
+H0023,Regional Medical Center 23,869 Main St,City_2,PA,80271,Psychiatric,Nonprofit,Yes,4
+H0024,Regional Medical Center 24,443 Main St,City_3,TX,54064,Acute Care,Nonprofit,Yes,2
+H0025,Regional Medical Center 25,591 Main St,City_4,TX,80091,Acute Care,Government,Yes,3
+H0026,Regional Medical Center 26,513 Main St,City_5,FL,50818,Critical Access,Proprietary,Yes,3
+H0027,Regional Medical Center 27,905 Main St,City_6,IL,55525,Critical Access,Government,Yes,5
+H0028,Regional Medical Center 28,485 Main St,City_7,IL,29830,Acute Care,Proprietary,Yes,4
+H0029,Regional Medical Center 29,291 Main St,City_8,TX,27429,Acute Care,Government,Yes,3
+H0030,Regional Medical Center 30,376 Main St,City_9,IL,16893,Critical Access,Nonprofit,Yes,2
+H0031,Regional Medical Center 31,260 Main St,City_10,CA,89909,Acute Care,Proprietary,Yes,2
+H0032,Regional Medical Center 32,559 Main St,City_11,OH,57333,Childrens,Government,Yes,3
+H0033,Regional Medical Center 33,413 Main St,City_12,NY,13436,Childrens,Government,Yes,4
+H0034,Regional Medical Center 34,121 Main St,City_13,NC,84290,Acute Care,Proprietary,Yes,2
+H0035,Regional Medical Center 35,352 Main St,City_14,GA,86213,Acute Care,Government,Yes,5
+H0036,Regional Medical Center 36,847 Main St,City_15,FL,15895,Childrens,Proprietary,Yes,2
+H0037,Regional Medical Center 37,956 Main St,City_16,OH,29738,Acute Care,Government,Yes,1
+H0038,Regional Medical Center 38,660 Main St,City_17,TX,40746,Acute Care,Government,Yes,1
+H0039,Regional Medical Center 39,574 Main St,City_18,NC,59377,Critical Access,Proprietary,Yes,4
+H0040,Regional Medical Center 40,158 Main St,City_19,IL,58404,Critical Access,Nonprofit,Yes,3
+H0041,Regional Medical Center 41,610 Main St,City_0,GA,64045,Childrens,Government,Yes,4
+H0042,Regional Medical Center 42,781 Main St,City_1,IL,49790,Childrens,Government,Yes,4
+H0043,Regional Medical Center 43,575 Main St,City_2,PA,15600,Childrens,Government,Yes,4
+H0044,Regional Medical Center 44,799 Main St,City_3,PA,50764,Critical Access,Nonprofit,No,4
+H0045,Regional Medical Center 45,882 Main St,City_4,GA,84543,Critical Access,Proprietary,Yes,5
+H0046,Regional Medical Center 46,289 Main St,City_5,GA,55714,Critical Access,Proprietary,Yes,5
+H0047,Regional Medical Center 47,786 Main St,City_6,TX,66835,Acute Care,Nonprofit,Yes,2
+H0048,Regional Medical Center 48,662 Main St,City_7,GA,83744,Acute Care,Government,Yes,1
+H0049,Regional Medical Center 49,975 Main St,City_8,CA,66491,Critical Access,Nonprofit,No,4
+H0050,Regional Medical Center 50,666 Main St,City_9,IL,28589,Critical Access,Proprietary,Yes,2
+H0051,Regional Medical Center 51,343 Main St,City_10,OH,53484,Critical Access,Government,Yes,1
+H0052,Regional Medical Center 52,931 Main St,City_11,MI,92989,Critical Access,Proprietary,Yes,3
+H0053,Regional Medical Center 53,604 Main St,City_12,GA,46212,Critical Access,Nonprofit,Yes,5
+H0054,Regional Medical Center 54,230 Main St,City_13,FL,53525,Acute Care,Proprietary,No,1
+H0055,Regional Medical Center 55,584 Main St,City_14,PA,57202,Acute Care,Nonprofit,Yes,3
+H0056,Regional Medical Center 56,918 Main St,City_15,CA,42635,Acute Care,Proprietary,Yes,1
+H0057,Regional Medical Center 57,746 Main St,City_16,NC,73208,Acute Care,Nonprofit,Yes,5
+H0058,Regional Medical Center 58,120 Main St,City_17,MI,43828,Acute Care,Proprietary,Yes,5
+H0059,Regional Medical Center 59,940 Main St,City_18,OH,28711,Critical Access,Nonprofit,Yes,2
+H0060,Regional Medical Center 60,266 Main St,City_19,MI,13420,Acute Care,Proprietary,Yes,4
+H0061,Regional Medical Center 61,373 Main St,City_0,GA,10301,Critical Access,Government,Yes,1
+H0062,Regional Medical Center 62,487 Main St,City_1,TX,55236,Acute Care,Government,No,1
+H0063,Regional Medical Center 63,700 Main St,City_2,PA,76235,Critical Access,Government,No,3
+H0064,Regional Medical Center 64,415 Main St,City_3,PA,64240,Acute Care,Government,Yes,5
+H0065,Regional Medical Center 65,113 Main St,City_4,NC,75726,Acute Care,Government,No,1
+H0066,Regional Medical Center 66,341 Main St,City_5,TX,20492,Acute Care,Nonprofit,Yes,5
+H0067,Regional Medical Center 67,876 Main St,City_6,IL,16102,Critical Access,Proprietary,No,1
+H0068,Regional Medical Center 68,445 Main St,City_7,NY,60336,Acute Care,Nonprofit,Yes,2
+H0069,Regional Medical Center 69,664 Main St,City_8,CA,95314,Childrens,Nonprofit,Yes,4
+H0070,Regional Medical Center 70,997 Main St,City_9,PA,36641,Acute Care,Proprietary,Yes,1
+H0071,Regional Medical Center 71,439 Main St,City_10,FL,44584,Acute Care,Nonprofit,Yes,5
+H0072,Regional Medical Center 72,191 Main St,City_11,PA,42745,Psychiatric,Nonprofit,Yes,2
+H0073,Regional Medical Center 73,466 Main St,City_12,MI,33093,Acute Care,Proprietary,Yes,1
+H0074,Regional Medical Center 74,554 Main St,City_13,PA,76105,Acute Care,Government,Yes,3
+H0075,Regional Medical Center 75,527 Main St,City_14,PA,61885,Acute Care,Government,Yes,4
+H0076,Regional Medical Center 76,608 Main St,City_15,NY,46631,Acute Care,Government,No,1
+H0077,Regional Medical Center 77,875 Main St,City_16,NY,82991,Critical Access,Government,Yes,2
+H0078,Regional Medical Center 78,134 Main St,City_17,OH,14014,Acute Care,Government,Yes,3
+H0079,Regional Medical Center 79,305 Main St,City_18,IL,21093,Acute Care,Nonprofit,Yes,2
+H0080,Regional Medical Center 80,180 Main St,City_19,FL,28070,Acute Care,Nonprofit,Yes,2
+H0081,Regional Medical Center 81,661 Main St,City_0,PA,45777,Childrens,Government,Yes,3
+H0082,Regional Medical Center 82,971 Main St,City_1,PA,66958,Acute Care,Government,Yes,2
+H0083,Regional Medical Center 83,487 Main St,City_2,CA,92074,Acute Care,Government,Yes,3
+H0084,Regional Medical Center 84,101 Main St,City_3,NY,20729,Critical Access,Proprietary,Yes,1
+H0085,Regional Medical Center 85,489 Main St,City_4,FL,55017,Critical Access,Proprietary,No,3
+H0086,Regional Medical Center 86,665 Main St,City_5,NC,76320,Acute Care,Nonprofit,Yes,3
+H0087,Regional Medical Center 87,205 Main St,City_6,OH,37751,Acute Care,Proprietary,Yes,4
+H0088,Regional Medical Center 88,871 Main St,City_7,IL,88069,Acute Care,Nonprofit,Yes,3
+H0089,Regional Medical Center 89,921 Main St,City_8,TX,64748,Acute Care,Nonprofit,Yes,3
+H0090,Regional Medical Center 90,576 Main St,City_9,IL,15801,Acute Care,Government,Yes,1
+H0091,Regional Medical Center 91,802 Main St,City_10,MI,29190,Acute Care,Nonprofit,Yes,4
+H0092,Regional Medical Center 92,501 Main St,City_11,PA,59689,Acute Care,Proprietary,Yes,5
+H0093,Regional Medical Center 93,829 Main St,City_12,OH,60993,Acute Care,Proprietary,Yes,1
+H0094,Regional Medical Center 94,655 Main St,City_13,MI,39592,Psychiatric,Proprietary,Yes,1
+H0095,Regional Medical Center 95,261 Main St,City_14,FL,20647,Critical Access,Nonprofit,Yes,5
+H0096,Regional Medical Center 96,301 Main St,City_15,TX,18716,Acute Care,Nonprofit,Yes,3
+H0097,Regional Medical Center 97,369 Main St,City_16,NY,98891,Psychiatric,Nonprofit,Yes,2
+H0098,Regional Medical Center 98,962 Main St,City_17,OH,97545,Critical Access,Nonprofit,Yes,4
+H0099,Regional Medical Center 99,915 Main St,City_18,OH,99912,Acute Care,Nonprofit,Yes,2
+H0100,Regional Medical Center 100,370 Main St,City_19,PA,80316,Acute Care,Nonprofit,Yes,5
+H0101,Regional Medical Center 101,555 Main St,City_0,GA,12368,Acute Care,Nonprofit,Yes,1
+H0102,Regional Medical Center 102,561 Main St,City_1,OH,87575,Acute Care,Nonprofit,No,1
+H0103,Regional Medical Center 103,826 Main St,City_2,CA,16655,Critical Access,Proprietary,Yes,4
+H0104,Regional Medical Center 104,351 Main St,City_3,TX,80031,Acute Care,Government,Yes,1
+H0105,Regional Medical Center 105,801 Main St,City_4,TX,86429,Acute Care,Nonprofit,No,1
+H0106,Regional Medical Center 106,395 Main St,City_5,CA,97922,Childrens,Proprietary,No,4
+H0107,Regional Medical Center 107,824 Main St,City_6,NC,65766,Critical Access,Proprietary,Yes,4
+H0108,Regional Medical Center 108,819 Main St,City_7,CA,23403,Acute Care,Nonprofit,Yes,5
+H0109,Regional Medical Center 109,848 Main St,City_8,CA,42097,Childrens,Government,No,1
+H0110,Regional Medical Center 110,437 Main St,City_9,TX,88657,Psychiatric,Proprietary,Yes,1
+H0111,Regional Medical Center 111,978 Main St,City_10,IL,20966,Psychiatric,Nonprofit,Yes,5
+H0112,Regional Medical Center 112,152 Main St,City_11,TX,62921,Acute Care,Nonprofit,Yes,3
+H0113,Regional Medical Center 113,891 Main St,City_12,GA,59726,Critical Access,Proprietary,Yes,3
+H0114,Regional Medical Center 114,316 Main St,City_13,PA,60300,Acute Care,Nonprofit,Yes,3
+H0115,Regional Medical Center 115,863 Main St,City_14,MI,32677,Critical Access,Nonprofit,Yes,5
+H0116,Regional Medical Center 116,287 Main St,City_15,IL,65609,Psychiatric,Government,Yes,1
+H0117,Regional Medical Center 117,479 Main St,City_16,NY,66661,Critical Access,Government,Yes,5
+H0118,Regional Medical Center 118,592 Main St,City_17,MI,41024,Critical Access,Nonprofit,Yes,5
+H0119,Regional Medical Center 119,140 Main St,City_18,PA,80313,Childrens,Proprietary,Yes,3
+H0120,Regional Medical Center 120,256 Main St,City_19,GA,63006,Critical Access,Government,No,2
+H0121,Regional Medical Center 121,114 Main St,City_0,GA,25338,Acute Care,Proprietary,Yes,1
+H0122,Regional Medical Center 122,912 Main St,City_1,NY,78027,Acute Care,Proprietary,Yes,3
+H0123,Regional Medical Center 123,164 Main St,City_2,IL,90135,Acute Care,Proprietary,Yes,2
+H0124,Regional Medical Center 124,956 Main St,City_3,NC,29508,Childrens,Proprietary,Yes,2
+H0125,Regional Medical Center 125,938 Main St,City_4,CA,13051,Acute Care,Proprietary,Yes,4
+H0126,Regional Medical Center 126,620 Main St,City_5,IL,58747,Acute Care,Proprietary,No,1
+H0127,Regional Medical Center 127,443 Main St,City_6,NC,97142,Acute Care,Nonprofit,Yes,2
+H0128,Regional Medical Center 128,228 Main St,City_7,GA,97235,Acute Care,Government,Yes,3
+H0129,Regional Medical Center 129,747 Main St,City_8,TX,64021,Childrens,Nonprofit,Yes,4
+H0130,Regional Medical Center 130,571 Main St,City_9,PA,76412,Childrens,Proprietary,Yes,1
+H0131,Regional Medical Center 131,162 Main St,City_10,NY,68335,Acute Care,Nonprofit,Yes,5
+H0132,Regional Medical Center 132,238 Main St,City_11,PA,66179,Childrens,Proprietary,Yes,3
+H0133,Regional Medical Center 133,598 Main St,City_12,FL,42093,Acute Care,Nonprofit,Yes,2
+H0134,Regional Medical Center 134,692 Main St,City_13,FL,79678,Acute Care,Nonprofit,Yes,2
+H0135,Regional Medical Center 135,491 Main St,City_14,IL,90738,Critical Access,Government,Yes,3
+H0136,Regional Medical Center 136,774 Main St,City_15,GA,49734,Acute Care,Nonprofit,Yes,2
+H0137,Regional Medical Center 137,518 Main St,City_16,GA,82615,Acute Care,Proprietary,Yes,4
+H0138,Regional Medical Center 138,388 Main St,City_17,CA,83523,Critical Access,Proprietary,Yes,1
+H0139,Regional Medical Center 139,478 Main St,City_18,CA,27019,Acute Care,Government,Yes,4
+H0140,Regional Medical Center 140,872 Main St,City_19,CA,93613,Acute Care,Proprietary,Yes,2
+H0141,Regional Medical Center 141,589 Main St,City_0,TX,96672,Acute Care,Proprietary,Yes,5
+H0142,Regional Medical Center 142,330 Main St,City_1,MI,83847,Acute Care,Proprietary,No,1
+H0143,Regional Medical Center 143,140 Main St,City_2,OH,92750,Acute Care,Nonprofit,Yes,1
+H0144,Regional Medical Center 144,127 Main St,City_3,MI,89634,Acute Care,Government,Yes,3
+H0145,Regional Medical Center 145,234 Main St,City_4,PA,38251,Critical Access,Proprietary,Yes,3
+H0146,Regional Medical Center 146,300 Main St,City_5,MI,35945,Critical Access,Proprietary,No,5
+H0147,Regional Medical Center 147,939 Main St,City_6,TX,42217,Critical Access,Government,Yes,1
+H0148,Regional Medical Center 148,879 Main St,City_7,PA,18308,Critical Access,Proprietary,Yes,5
+H0149,Regional Medical Center 149,132 Main St,City_8,MI,15949,Critical Access,Nonprofit,Yes,3
+H0150,Regional Medical Center 150,147 Main St,City_9,TX,61990,Acute Care,Proprietary,Yes,3
