@@ -1,0 +1,2 @@
+-- BigQuery hospital quality project
+-- Main data cleaning and benchmarking queries will go here.
