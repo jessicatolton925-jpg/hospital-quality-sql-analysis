@@ -1,17 +1,27 @@
-# Hospital Quality SQL Analysis  
+ # Hospital Quality SQL Analysis  
 *A data analytics project integrating SQL, healthcare quality metrics, and mission-driven insight.*
 ---
 ## 🔎 Table of Contents
 - [Overview](#overview)
+  
 - [Project Objectives](#project-objectives)
+  
 - [Repository Structure](#repository-structure)
+  
 - [Visuals](#visuals)
+  
 - [Technical Skills Demonstrated](#technical-skills-demonstrated)
+  
 - [Key Insights](#key-insights)
+  
 - [Values & Purpose](#values--purpose)
+  
 - [How to Reproduce](#how-to-reproduce-this-analysis)
+  
 - [Future Enhancements](#future-enhancements)
+  
 - [About Me](#about-me)
+  
 - [Thank You](#thank-you)
 
 ---
@@ -26,17 +36,21 @@ This work reflects both technical skill and personal purpose: a commitment to us
 
 ## 🎯 Project Objectives
 
-- Clean, standardize, and transform hospital quality datasets  
-- Join mortality and readmission data into a unified evaluation model  
-- Compute a **combined quality score** across performance domains  
-- Rank the **Top 10** and **Bottom 10** hospitals nationally  
-- Summarize quality by state  
+- Clean, standardize, and transform hospital quality datasets
+  
+- Join mortality and readmission data into a unified evaluation model
+  
+- Compute a **combined quality score** across performance domains
+  
+- Rank the **Top 10** and **Bottom 10** hospitals nationally
+  
+- Summarize quality by state
+  
 - Visualize distribution of hospital performance tiers  
 
 ```text
 ## 📂 Repository Structure
 
-```text
 hospital-quality-sql-analysis/
 ├── sql/
 │   ├── 01_cleaning.sql
@@ -63,28 +77,17 @@ hospital-quality-sql-analysis/
     └── README.md
 ```
 
-## 📊 Visuals
+### ⭐ Top 10 Hospitals by Combined Quality Score
+![Top 10 Hospitals](charts/top10hosp.png)
 
-### 
-![Top 10 Hospitals](./charts/charts/Top%2010%20Hospitals%20by%20Combined%20Quality%20Score.png)
+### ⭐ Bottom 10 Hospitals by Combined Quality Score
+![Bottom 10 Hospitals](charts/Bot10Hosp.png)
 
-**Insight:** The top-performing hospitals show consistently strong results across mortality, readmission, and effective care domains, indicating a high standard of integrated clinical quality.
----
+### ⭐ Average Combined Quality Score by State
+![Average State Score](charts/Avg%20Qual%20Scr.png)
 
-### 
- ![Bottom 10 Hospitals](./charts/charts/Bottom%2010%20Hospitals%20by%20Combined%20Quality%20Score.png)
-
-**Insight:** Lower-performing hospitals display uneven or unstable metrics across domains, suggesting deeper systemic challenges and opportunities for targeted improvement.
----
-
-### 
- ![State Quality Score](./charts/charts/Average%20Combined%20Quality%20Score%20by%20State.png)
-
-**Insight:** Most states cluster tightly between 97–102, indicating small clinical differences can significantly influence national ranking positions.
----
-
-### 
- ![Quality Tier Distribution](./charts/charts/Distribution%20of%20Hospitals%20by%20Quality%20Tier.png)
+### ⭐ Hospital Quality Tier Distribution
+![Quality Tiers](charts/qual%20tier.png)
 
   **Insight:** Over 31% of hospitals fall within the “Average” tier, highlighting broad national opportunities for improvement in quality, consistency, and patient outcomes.
 ---
@@ -108,10 +111,14 @@ Most states fall between **97–102**, meaning small clinical changes create mea
 ## 💛 Values & Purpose
 
 This project reflects my commitment to:  
-- **Service** — using data to support patients & families  
-- **Integrity** — transparent healthcare evaluation  
-- **Equity** — identifying disparities in care  
-- **Impact** — driving decisions that improve real lives  
+- **Service** — using data to support patients & families
+  
+- **Integrity** — transparent healthcare evaluation
+  
+- **Equity** — identifying disparities in care
+  
+- **Impact** — driving decisions that improve real lives
+  
 
 As someone with experience in caregiving, operations, and educational advocacy, I believe data is a tool for justice and empowerment. This analysis is part of my journey in building a mission-driven analytics career.
 
@@ -144,10 +151,14 @@ Recreate visuals using Sheets, Tableau, or Excel.
 
 ## 📘 Future Enhancements
 
-- 📄 Full project PDF with narrative insights  
-- 📊 Interactive Tableau dashboard  
-- 🧠 Feature engineering for advanced quality scores  
-- 🩺 Patient experience + outcome correlation study  
+- 📄 Full project PDF with narrative insights
+  
+- 📊 Interactive Tableau dashboard
+  
+- 🧠 Feature engineering for advanced quality scores
+  
+- 🩺 Patient experience + outcome correlation study
+
 
 ---
 
