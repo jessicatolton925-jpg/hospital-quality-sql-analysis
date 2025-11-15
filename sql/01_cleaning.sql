@@ -1,33 +1,45 @@
 -- 01_cleaning.sql
--- Data Cleaning & Preparation for Hospital Quality Analysis
--- Author: Jessica Tolton
--- Description: Standardizes column formats, removes nulls,
---              and prepares clean base tables for downstream joins.
 
--- 1. Inspect source tables
-SELECT * FROM `project.hospital_data` LIMIT 20;
-SELECT * FROM `project.mortality_data` LIMIT 20;
-SELECT * FROM `project.readmissions_data` LIMIT 20;
-
--- 2. Remove null or invalid hospital names
-CREATE OR REPLACE TABLE `project.cleaned_hospital_data` AS
-SELECT *
-FROM `project.hospital_data`
-WHERE hospital_name IS NOT NULL
-  AND TRIM(hospital_name) != "";
-
--- 3. Standardize state codes to uppercase
-CREATE OR REPLACE TABLE `project.cleaned_hospital_data` AS
+-- Clean hospitals table
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.hospitals_clean` AS
 SELECT
+  CAST(provider_id AS INT64) AS provider_id,
   hospital_name,
-  UPPER(state) AS state,
-  CAST(mortality_score AS FLOAT64) AS mortality_score,
-  CAST(readmission_score AS FLOAT64) AS readmission_score
-FROM `project.cleaned_hospital_data`;
+  address,
+  city,
+  state,
+  zip_code,
+  hospital_type,
+  hospital_ownership
+FROM `sql-portfolio-project-478121.healthcare_data.hospitals`;
 
--- 4. Remove rows with missing numeric values
-CREATE OR REPLACE TABLE `project.cleaned_hospital_data` AS
-SELECT *
-FROM `project.cleaned_hospital_data`
-WHERE mortality_score IS NOT NULL
-  AND readmission_score IS NOT NULL;
+-- Clean mortality table
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.mortality_clean` AS
+SELECT
+  CAST(provider_id AS INT64) AS provider_id,
+  measure_name,
+  score AS mortality_score
+FROM `sql-portfolio-project-478121.healthcare_data.mortality_measures`;
+
+-- Clean readmission table
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.readmission_clean` AS
+SELECT
+  CAST(provider_id AS INT64) AS provider_id,
+  measure_name,
+  score AS readmission_score
+FROM `sql-portfolio-project-478121.healthcare_data.readmission_measures`;
+
+-- Clean effective care table
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.effective_care_clean` AS
+SELECT
+  CAST(provider_id AS INT64) AS provider_id,
+  measure_id,
+  score AS effective_care_score
+FROM `sql-portfolio-project-478121.healthcare_data.effective_care`;
+
+-- Clean patient experience table
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.patient_exp_clean` AS
+SELECT
+  CAST(provider_id AS INT64) AS provider_id,
+  score AS patient_exp_score
+FROM `sql-portfolio-project-478121.healthcare_data.patient_experience`;
