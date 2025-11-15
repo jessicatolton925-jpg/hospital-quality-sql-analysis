@@ -1,0 +1,15 @@
+-- 07_quality_tiers.sql
+
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.quality_tiers` AS
+SELECT
+  CASE
+    WHEN combined_quality_score >= 105 THEN 'A — High Performing'
+    WHEN combined_quality_score >= 100 THEN 'B — Above Average'
+    WHEN combined_quality_score >= 95 THEN 'C — Average'
+    WHEN combined_quality_score >= 90 THEN 'D — Below Average'
+    ELSE 'F — Poor'
+  END AS quality_tier,
+  COUNT(*) AS hospital_count
+FROM `sql-portfolio-project-478121.healthcare_data.combined_quality_scores`
+GROUP BY quality_tier
+ORDER BY hospital_count DESC;
