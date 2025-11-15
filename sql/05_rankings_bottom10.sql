@@ -1,14 +1,7 @@
 -- 05_rankings_bottom10.sql
--- Author: Jessica Tolton
--- Description: Returns the 10 lowest-performing hospitals by quality score.
 
-CREATE OR REPLACE TABLE `project.bottom_10_hospitals` AS
-SELECT
-  hospital_name,
-  state,
-  combined_quality_score
-FROM `project.hospital_quality_scored`
+CREATE OR REPLACE TABLE `sql-portfolio-project-478121.healthcare_data.bottom10_hospitals` AS
+SELECT *
+FROM `sql-portfolio-project-478121.healthcare_data.combined_quality_scores`
 ORDER BY combined_quality_score ASC
 LIMIT 10;
-
-SELECT * FROM `project.bottom_10_hospitals`;
