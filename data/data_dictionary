@@ -1,0 +1,81 @@
+# Hospital Quality Analysis — Data Dictionary
+
+This data dictionary documents all variables used in the Hospital Quality Analysis project.
+
+---
+
+## 1. Source Table: `hospital_quality_raw`
+
+| Field Name          | Type     | Description |
+|--------------------|----------|-------------|
+| Hospital_Name      | STRING   | Full name of the hospital. |
+| State              | STRING   | 2-letter state abbreviation. |
+| mortality          | STRING   | Original mortality score (string before cleaning). |
+| readmission        | STRING   | Original readmission score. |
+| patient_experience | STRING   | Original patient experience score. |
+| safety             | STRING   | Original safety score. |
+
+---
+
+## 2. Cleaned Table: `hospital_quality_clean`
+
+| Field Name               | Type     | Description |
+|--------------------------|----------|-------------|
+| Hospital_Name            | STRING   | Hospital name. |
+| State                    | STRING   | Hospital state. |
+| mortality_score          | FLOAT64  | Cleaned numeric mortality score. |
+| readmission_score        | FLOAT64  | Cleaned numeric readmission score. |
+| patient_experience_score | FLOAT64  | Cleaned numeric patient experience score. |
+| safety_score             | FLOAT64  | Cleaned numeric safety score. |
+
+---
+
+## 3. Scored Table: `hospital_quality_scored`
+
+| Field Name                 | Type     | Description |
+|---------------------------|----------|-------------|
+| All fields above          | —        | Same as cleaned table. |
+| combined_quality_score    | FLOAT64  | Final composite score calculated as the average of 4 quality indicators, rounded to 3 decimals. |
+
+---
+
+## 4. State Quality Averages: `state_quality_averages`
+
+| Field Name         | Type     | Description |
+|-------------------|----------|-------------|
+| State             | STRING   | State abbreviation. |
+| avg_quality_score | FLOAT64  | Mean combined quality score for hospitals in the state. |
+
+---
+
+## 5. Top & Bottom Hospitals
+
+### `top10_hospitals`  
+### `bottom10_hospitals`
+
+| Field Name              | Type     | Description |
+|------------------------|----------|-------------|
+| Hospital_Name          | STRING   | Hospital name. |
+| State                  | STRING   | State. |
+| combined_quality_score | FLOAT64  | Final performance score. |
+
+---
+
+## 6. Quality Tier Distribution: `quality_tier_distribution`
+
+| Field Name     | Type     | Description |
+|----------------|----------|-------------|
+| quality_tier   | STRING   | Performance category based on score thresholds. |
+| hospital_count | INT64    | Number of hospitals within the tier. |
+
+---
+
+## 7. Correlation Table: `patient_correlation`
+
+| Field Name                          | Type     | Description |
+|-------------------------------------|----------|-------------|
+| corr_quality_patient_experience     | FLOAT64  | Correlation between combined score and patient experience. |
+| corr_mortality_experience           | FLOAT64  | Correlation between mortality and patient experience. |
+| corr_readmission_experience         | FLOAT64  | Correlation between readmission and patient experience. |
+
+---
