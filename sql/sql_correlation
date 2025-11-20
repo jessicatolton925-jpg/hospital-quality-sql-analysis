@@ -1,0 +1,6 @@
+CREATE OR REPLACE TABLE project.patient_correlation AS
+SELECT
+    CORR(combined_quality_score, patient_experience_score) AS corr_quality_patient_experience,
+    CORR(mortality_score, patient_experience_score) AS corr_mortality_experience,
+    CORR(readmission_score, patient_experience_score) AS corr_readmission_experience
+FROM project.hospital_quality_scored;
