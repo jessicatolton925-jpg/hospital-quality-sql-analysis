@@ -5,12 +5,16 @@
 - [Overview](#overview)
   
 - [Project Objectives](#project-objectives)
+
+- [Methods](#methods)
   
 - [Repository Structure](#repository-structure)
   
 - [Visuals](#visuals)
   
 - [Technical Skills Demonstrated](#technical-skills-demonstrated)
+
+- [Interactive Tableau Dashboard](#interactivetableaudashboard)
   
 - [Key Insights](#key-insights)
   
@@ -46,11 +50,67 @@ This work reflects both technical skill and personal purpose: a commitment to us
   
 - Summarize quality by state
   
-- Visualize distribution of hospital performance tiers  
+- Visualize distribution of hospital performance tiers
+  
 
-```text
+## 📂 Methods
+
+This project followed a structured, end-to-end analytics workflow to ensure accuracy, transparency, and meaningful insight across all hospital quality metrics.
+
+1. Data Extraction (BigQuery)
+
+Queried multiple CMS datasets including mortality, readmissions, patient experience, and surgical outcomes.
+
+Retrieved raw hospital profiles and performance domains using SQL.
+
+Used CTEs and joins to unify scattered datasets into a single analytical model.
+
+2. Data Cleaning & Standardization
+
+Removed suppressed or incomplete records.
+
+Normalized hospital names, state codes, and performance domain scales.
+
+Created consistent variable naming across datasets.
+
+3. Feature Engineering
+
+Calculated a Combined Quality Score from weighted performance domains.
+
+Derived hospital Quality Tiers using quantile-based segmentation.
+
+Created state-level aggregations for geographic comparison.
+
+4. Analysis & Validation
+
+Reviewed distributions, outliers, and correlations across rating, quality, and region.
+
+Validated domain weights and combined score formulas.
+
+Cross-checked state averages and ranking consistency.
+
+5. Visualization & Dashboarding
+
+Exported cleaned and engineered result sets into Excel and Tableau.
+
+Built visual analytics including:
+
+Top/Bottom 10 hospitals
+
+Scatterplot: Quality vs Rating
+
+Quality Tier Distribution
+
+State-Level Quality Averages
+
+Designed an interactive dashboard using your teal-gold brand theme.
+
+Published final dashboard to Tableau Public for sharing and embedding.
+
+
 ## 📂 Repository Structure
 
+```text
 hospital-quality-sql-analysis/
 ├── sql/
 │   ├── 01_cleaning.sql
@@ -77,20 +137,45 @@ hospital-quality-sql-analysis/
     └── README.md
 ```
 
+
 ### ⭐ Top 10 Hospitals by Combined Quality Score
 ![Top 10 Hospitals](charts/top10hosp.png)
+
+**Insight:** Highest-performing hospitals consistently exceed national benchmarks, showing strong alignment between effective care, patient experience, and outcomes.
+---
 
 ### ⭐ Bottom 10 Hospitals by Combined Quality Score
 ![Bottom 10 Hospitals](charts/Bot10Hosp.png)
 
+**Insight:** Lower-performing hospitals cluster around significantly reduced quality scores, indicating systemic gaps in consistency, safety, or patient-centered outcomes.
+---
+
 ### ⭐ Average Combined Quality Score by State
 ![Average State Score](charts/Avg%20Qual%20Scr.png)
+
+**Insight:** Florida, Ohio, and Georgia lead with the highest state-level quality averages, while California and Michigan show lower statewide performance, revealing regional variability in care quality.
+---
 
 ### ⭐ Hospital Quality Tier Distribution
 ![Quality Tiers](charts/qual%20tier.png)
 
   **Insight:** Over 31% of hospitals fall within the “Average” tier, highlighting broad national opportunities for improvement in quality, consistency, and patient outcomes.
 ---
+
+---
+
+## 📊 Interactive Tableau Dashboard
+
+Explore the full interactive dashboard analyzing national hospital quality, ratings, tiers, and state-level performance.
+
+🔗 **Live Dashboard:**  
+https://public.tableau.com/app/profile/jessica.tolton/viz/Hospital_Quality_Performance_Dashboard/OverallQualityDashboard
+
+### 📌 Dashboard Preview
+![Dashboard Preview](charts/dashboard_preview.png)
+
+---
+
 
 ## 🔍 Key Insights
 
